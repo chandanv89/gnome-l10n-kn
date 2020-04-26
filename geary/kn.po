@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/geary/issues\n"
 "POT-Creation-Date: 2020-04-24 05:52+0000\n"
-"PO-Revision-Date: 2020-04-25 21:51+0100\n"
+"PO-Revision-Date: 2020-04-26 23:24+0100\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -28,8 +28,7 @@ msgstr "ಕಡತಗಳನ್ನು ಗೇರಿ ಮೂಲಕ ರವಾನಿಸ
 
 #. Translators: The application name
 #: desktop/geary-autostart.desktop.in.in:3 desktop/org.gnome.Geary.appdata.xml.in.in:12
-#: desktop/org.gnome.Geary.desktop.in.in:3
-#: src/client/accounts/accounts-editor-servers-pane.vala:555
+#: desktop/org.gnome.Geary.desktop.in.in:3 src/client/accounts/accounts-editor-servers-pane.vala:555
 #: src/client/application/application-main-window.vala:590
 msgid "Geary"
 msgstr "ಗೇರಿ"
@@ -40,8 +39,7 @@ msgstr "ಇಮೇಲ್"
 
 #. Translators: The application's summary / tagline
 #: desktop/geary-autostart.desktop.in.in:5 desktop/org.gnome.Geary.appdata.xml.in.in:16
-#: desktop/org.gnome.Geary.desktop.in.in:5
-#: src/client/application/application-client.vala:32
+#: desktop/org.gnome.Geary.desktop.in.in:5 src/client/application/application-client.vala:32
 msgid "Send and receive email"
 msgstr "ಇಮೇಲ್ ವರ್ಗಾಯಿಸಿ"
 
@@ -57,18 +55,17 @@ msgstr "ಗೇರಿ ಅಭಿವೃದ್ಧಿ ತಂಡ"
 
 #: desktop/org.gnome.Geary.appdata.xml.in.in:18
 msgid ""
-"Geary is an email application built around conversations, for the GNOME 3 desktop. It "
-"allows you to read, find and send email with a straightforward, modern interface."
+"Geary is an email application built around conversations, for the GNOME 3 desktop. It allows you to "
+"read, find and send email with a straightforward, modern interface."
 msgstr ""
-"ಗೇರಿ ಗ್ನೋಮ್ 3 ಡೆಸ್ಕ್‌ಟಾಪ್‌ಗಾಗಿ ಅಭಿವೃದ್ಧಿ ಪಡಿಸಿದಂತಹ ಒಂದು ಇಮೇಲ್ ಅಪ್ಲಿಕೇಶನ್ ಆಗಿದೆ. ಇದು ತನ್ನ ಸುಲಭ ಮತ್ತು "
-"ಆಧುನಿಕ ವಿನ್ಯಾಸದೊಂದಿಗೆ ನಿಮ್ಮ ಇಮೇಲ್ ಅನ್ನು ಓದಲು, ಹುಡುಕಲು ಮತ್ತು ರವಾನಿಸಲು ಅನುವುಮಾಡಿಕೊಡುತ್ತದೆ."
+"ಗೇರಿ ಗ್ನೋಮ್ 3 ಡೆಸ್ಕ್‌ಟಾಪ್‌ಗಾಗಿ ಅಭಿವೃದ್ಧಿ ಪಡಿಸಿದಂತಹ ಒಂದು ಇಮೇಲ್ ಅಪ್ಲಿಕೇಶನ್ ಆಗಿದೆ. ಇದು ತನ್ನ ಸುಲಭ ಮತ್ತು ಆಧುನಿಕ "
+"ವಿನ್ಯಾಸದೊಂದಿಗೆ ನಿಮ್ಮ ಇಮೇಲ್ ಅನ್ನು ಓದಲು, ಹುಡುಕಲು ಮತ್ತು ರವಾನಿಸಲು ಅನುವುಮಾಡಿಕೊಡುತ್ತದೆ."
 
 #: desktop/org.gnome.Geary.appdata.xml.in.in:23
 msgid ""
-"Conversations allow you to read a complete discussion without having to find and click "
-"from message to message."
-msgstr ""
-"ನಿಮ್ಮ ಚರ್ಚೆಗಳನ್ನು ಸಂದೇಶದಿಂದ ಸಂದೇಶಕ್ಕೆ ಹುಡುಕಾಡದಂತೆ ಸರಾಗವಾಗಿ ಓದಲು ಸಂಭಾಷಣೆಗಳು ಅನುವುಮಾಡಿಕೊಡುತ್ತವೆ."
+"Conversations allow you to read a complete discussion without having to find and click from message "
+"to message."
+msgstr "ನಿಮ್ಮ ಚರ್ಚೆಗಳನ್ನು ಸಂದೇಶದಿಂದ ಸಂದೇಶಕ್ಕೆ ಹುಡುಕಾಡದಂತೆ ಸರಾಗವಾಗಿ ಓದಲು ಸಂಭಾಷಣೆಗಳು ಅನುವುಮಾಡಿಕೊಡುತ್ತವೆ."
 
 #: desktop/org.gnome.Geary.appdata.xml.in.in:27
 msgid "Geary’s features include:"
@@ -127,7 +124,7 @@ msgstr "ವಿಂಡೋ ಪೂರ್ತಿ‌ ಅಗಲಿಸಿ"
 
 #: desktop/org.gnome.Geary.gschema.xml:9
 msgid "True if the application window is maximized, false otherwise."
-msgstr "ಅಪ್ಲಿಕೇಶನ್‌ ವಿಂಡೋ ಪೂರ್ತಿ ಅಗಲವಾಗಿದ್ದರೆ ಸರಿ, ಇಲ್ಲವಾದರೆ ತಪ್ಪು.‌"
+msgstr "ಅಪ್ಲಿಕೇಶನ್‌ ವಿಂಡೋ ಪೂರ್ತಿ ಅಗಲವಾಗಿದ್ದರೆ ಸರಿ, ಇಲ್ಲವಾದರೆ ತಪ್ಪು."
 
 #: desktop/org.gnome.Geary.gschema.xml:14
 msgid "Width of window"
@@ -135,7 +132,7 @@ msgstr "ವಿಂಡೋವಿನ ಅಗಲ‌"
 
 #: desktop/org.gnome.Geary.gschema.xml:15
 msgid "The last recorded width of the application window."
-msgstr "ಹಿಂದೆ ದಾಖಲಿಸಿದ್ದ ಅಪ್ಲಿಕೇಶನ್ ವಿಂಡೋವಿನ ಅಗಲ‌"
+msgstr "ಹಿಂದೆ ದಾಖಲಿಸಿದ್ದ ಅಪ್ಲಿಕೇಶನ್ ವಿಂಡೋವಿನ ಅಗಲ."
 
 #: desktop/org.gnome.Geary.gschema.xml:20
 msgid "Height of window"
@@ -143,7 +140,7 @@ msgstr "ವಿಂಡೋವಿನ ಎತ್ತರ‌"
 
 #: desktop/org.gnome.Geary.gschema.xml:21
 msgid "The last recorded height of the application window."
-msgstr "ಹಿಂದೆ ದಾಖಲಿಸಿದ್ದ ಅಪ್ಲಿಕೇಶನ್ ವಿಂಡೋವಿನ ಎತ್ತರ‌"
+msgstr "ಹಿಂದೆ ದಾಖಲಿಸಿದ್ದ ಅಪ್ಲಿಕೇಶನ್ ವಿಂಡೋವಿನ ಎತ್ತರ‌."
 
 #: desktop/org.gnome.Geary.gschema.xml:26
 msgid "Position of folder list pane"
@@ -215,8 +212,8 @@ msgstr ""
 
 #: desktop/org.gnome.Geary.gschema.xml:75
 msgid ""
-"Enables shortcuts for email actions that do not require pressing <Ctrl> to emulate those "
-"used by Gmail."
+"Enables shortcuts for email actions that do not require pressing <Ctrl> to emulate those used by "
+"Gmail."
 msgstr ""
 
 #: desktop/org.gnome.Geary.gschema.xml:82
@@ -225,8 +222,8 @@ msgstr ""
 
 #: desktop/org.gnome.Geary.gschema.xml:83
 msgid ""
-"A list of POSIX locales, with the empty list disabling spell checking and the null list "
-"using desktop languages by default."
+"A list of POSIX locales, with the empty list disabling spell checking and the null list using "
+"desktop languages by default."
 msgstr ""
 
 #: desktop/org.gnome.Geary.gschema.xml:90
@@ -290,8 +287,7 @@ msgid "Undo sending email delay"
 msgstr ""
 
 #: desktop/org.gnome.Geary.gschema.xml:133
-msgid ""
-"The number of seconds to wait before sending an email. Set to zero or less to disable."
+msgid "The number of seconds to wait before sending an email. Set to zero or less to disable."
 msgstr ""
 
 #: desktop/org.gnome.Geary.gschema.xml:139
@@ -454,8 +450,7 @@ msgstr ""
 
 #. Translators: Label in the account editor for the user's
 #. custom name for an account.
-#: src/client/accounts/accounts-editor-edit-pane.vala:277
-#: ui/accounts_editor_remove_pane.ui:123
+#: src/client/accounts/accounts-editor-edit-pane.vala:277 ui/accounts_editor_remove_pane.ui:123
 msgid "Account name"
 msgstr ""
 
@@ -1054,15 +1049,15 @@ msgstr ""
 #: src/client/application/application-controller.vala:1306
 #, c-format
 msgid ""
-"There was an error opening the local mail database for this account. This is possibly "
-"due to corruption of the database file in this directory:\n"
+"There was an error opening the local mail database for this account. This is possibly due to "
+"corruption of the database file in this directory:\n"
 "\n"
 "%s\n"
 "\n"
 "Geary can rebuild the database and re-synchronize with the server or exit.\n"
 "\n"
-"Rebuilding the database will destroy all local email and its attachments. <b>The mail on "
-"the your server will not be affected.</b>"
+"Rebuilding the database will destroy all local email and its attachments. <b>The mail on the your "
+"server will not be affected.</b>"
 msgstr ""
 
 #: src/client/application/application-controller.vala:1308
@@ -1235,9 +1230,7 @@ msgid "Are you sure you want to open these attachments?"
 msgstr ""
 
 #: src/client/components/components-attachment-pane.vala:380
-msgid ""
-"Attachments may cause damage to your system if opened.  Only open files from trusted "
-"sources."
+msgid "Attachments may cause damage to your system if opened.  Only open files from trusted sources."
 msgstr ""
 
 #: src/client/components/components-attachment-pane.vala:381
@@ -1267,14 +1260,12 @@ msgstr ""
 #: src/client/components/components-inspector.vala:226
 #: src/client/components/components-inspector.vala:229
 #: src/client/dialogs/dialogs-problem-details-dialog.vala:221
-#: src/client/dialogs/dialogs-problem-details-dialog.vala:224
-#: ui/problem-details-dialog.ui:42
+#: src/client/dialogs/dialogs-problem-details-dialog.vala:224 ui/problem-details-dialog.ui:42
 msgid "Save As"
 msgstr ""
 
 #: src/client/components/components-inspector.vala:230
-#: src/client/dialogs/dialogs-problem-details-dialog.vala:225
-#: ui/accounts_editor_servers_pane.ui:17
+#: src/client/dialogs/dialogs-problem-details-dialog.vala:225 ui/accounts_editor_servers_pane.ui:17
 msgid "Cancel"
 msgstr ""
 
@@ -1393,8 +1384,7 @@ msgstr ""
 
 #. / Translators: Search entry placeholder text
 #: src/client/components/components-search-bar.vala:12
-#: src/client/folder-list/folder-list-search-branch.vala:53
-#: src/client/util/util-i18n.vala:298
+#: src/client/folder-list/folder-list-search-branch.vala:53 src/client/util/util-i18n.vala:298
 msgid "Search"
 msgstr ""
 
@@ -1586,8 +1576,8 @@ msgstr ""
 #. locale and English versions included automatically.
 #: src/client/composer/composer-widget.vala:254
 msgid ""
-"attach|attaching|attaches|attachment|attachments|attached|enclose|enclosed|enclosing|"
-"encloses|enclosure|enclosures"
+"attach|attaching|attaches|attachment|attachments|attached|enclose|enclosed|enclosing|encloses|"
+"enclosure|enclosures"
 msgstr ""
 
 #. Translators: This dialog text is displayed to the
@@ -1625,8 +1615,7 @@ msgstr ""
 msgid "“%s” already attached for delivery."
 msgstr ""
 
-#: src/client/composer/composer-widget.vala:1940
-#: src/client/composer/composer-widget.vala:1990
+#: src/client/composer/composer-widget.vala:1940 src/client/composer/composer-widget.vala:1990
 #, c-format
 msgid "“%s” is an empty file."
 msgstr ""
@@ -1652,22 +1641,21 @@ msgstr ""
 
 #. Translators: Human-readable version of the RFC 822 To header
 #: src/client/composer/composer-widget.vala:2071
-#: src/client/conversation-viewer/conversation-email.vala:542
-#: src/client/util/util-email.vala:236 ui/conversation-message.ui:312
+#: src/client/conversation-viewer/conversation-email.vala:542 src/client/util/util-email.vala:236
+#: ui/conversation-message.ui:312
 msgid "To:"
 msgstr ""
 
 #. Translators: Human-readable version of the RFC 822 CC header
 #: src/client/composer/composer-widget.vala:2077
-#: src/client/conversation-viewer/conversation-email.vala:547
-#: src/client/util/util-email.vala:241 ui/conversation-message.ui:357
+#: src/client/conversation-viewer/conversation-email.vala:547 src/client/util/util-email.vala:241
+#: ui/conversation-message.ui:357
 msgid "Cc:"
 msgstr ""
 
 #. Translators: Human-readable version of the RFC 822 BCC header
 #: src/client/composer/composer-widget.vala:2083
-#: src/client/conversation-viewer/conversation-email.vala:552
-#: ui/conversation-message.ui:402
+#: src/client/conversation-viewer/conversation-email.vala:552 ui/conversation-message.ui:402
 msgid "Bcc:"
 msgstr ""
 
@@ -1739,8 +1727,7 @@ msgid "_Star"
 msgstr ""
 
 #. Translators: Menu item to reply to a specific message.
-#: src/client/conversation-list/conversation-list-view.vala:392
-#: ui/conversation-email-menus.ui:9
+#: src/client/conversation-list/conversation-list-view.vala:392 ui/conversation-email-menus.ui:9
 msgid "_Reply"
 msgstr ""
 
@@ -1749,8 +1736,7 @@ msgid "R_eply All"
 msgstr ""
 
 #. Translators: Menu item to forward a specific message.
-#: src/client/conversation-list/conversation-list-view.vala:404
-#: ui/conversation-email-menus.ui:21
+#: src/client/conversation-list/conversation-list-view.vala:404 ui/conversation-email-menus.ui:21
 msgid "_Forward"
 msgstr ""
 
@@ -1759,20 +1745,17 @@ msgid "Me"
 msgstr ""
 
 #. Translators: Human-readable version of the RFC 822 From header
-#: src/client/conversation-viewer/conversation-email.vala:537
-#: src/client/util/util-email.vala:227
+#: src/client/conversation-viewer/conversation-email.vala:537 src/client/util/util-email.vala:227
 msgid "From:"
 msgstr ""
 
 #. Translators: Human-readable version of the RFC 822 Date header
-#: src/client/conversation-viewer/conversation-email.vala:557
-#: src/client/util/util-email.vala:232
+#: src/client/conversation-viewer/conversation-email.vala:557 src/client/util/util-email.vala:232
 msgid "Date:"
 msgstr ""
 
 #. Translators: Human-readable version of the RFC 822 Subject header
-#: src/client/conversation-viewer/conversation-email.vala:567
-#: src/client/util/util-email.vala:230
+#: src/client/conversation-viewer/conversation-email.vala:567 src/client/util/util-email.vala:230
 msgid "Subject:"
 msgstr ""
 
@@ -1902,8 +1885,8 @@ msgstr ""
 
 #: src/client/dialogs/certificate-warning-dialog.vala:48
 msgid ""
-"Selecting “Trust This Server” or “Always Trust This Server” may cause your username and "
-"password to be transmitted insecurely."
+"Selecting “Trust This Server” or “Always Trust This Server” may cause your username and password to "
+"be transmitted insecurely."
 msgstr ""
 
 #: src/client/dialogs/certificate-warning-dialog.vala:56
@@ -1915,14 +1898,13 @@ msgid "Geary will not add or update this email account."
 msgstr ""
 
 #: src/client/dialogs/certificate-warning-dialog.vala:63
-msgid ""
-"Selecting “Don’t Trust This Server” will cause Geary to stop accessing this account."
+msgid "Selecting “Don’t Trust This Server” will cause Geary to stop accessing this account."
 msgstr ""
 
 #: src/client/dialogs/certificate-warning-dialog.vala:69
 msgid ""
-"Contact your system administrator or email service provider if you have any question "
-"about these issues."
+"Contact your system administrator or email service provider if you have any question about these "
+"issues."
 msgstr ""
 
 #: src/client/dialogs/certificate-warning-dialog.vala:76
@@ -1956,8 +1938,7 @@ msgstr ""
 #. / Translators: Title for problem report dialog error
 #. / information pane
 #. Dialog title for displaying technical details of a problem. Same as the button that invokes it.
-#: src/client/dialogs/dialogs-problem-details-dialog.vala:100
-#: ui/problem-details-dialog.ui:12
+#: src/client/dialogs/dialogs-problem-details-dialog.vala:100 ui/problem-details-dialog.ui:12
 msgid "Details"
 msgstr ""
 
@@ -2578,8 +2559,7 @@ msgstr ""
 #. and put the most common localized name to the front for
 #. the default. English names do not need to be included.
 #: src/engine/imap-engine/imap-engine-generic-account.vala:916
-msgid ""
-"Junk | Spam | Junk Mail | Junk Email | Junk E-Mail | Bulk Mail | Bulk Email | Bulk E-Mail"
+msgid "Junk | Spam | Junk Mail | Junk Email | Junk E-Mail | Bulk Mail | Bulk Email | Bulk E-Mail"
 msgstr ""
 
 #. List of general possible folder names to match for the
@@ -2689,8 +2669,8 @@ msgstr ""
 
 #: ui/accounts_editor_remove_pane.ui:91
 msgid ""
-"Removing an account will remove it from Geary and delete locally cached email data from "
-"your computer, but not from your service provider."
+"Removing an account will remove it from Geary and delete locally cached email data from your "
+"computer, but not from your service provider."
 msgstr ""
 
 #: ui/accounts_editor_remove_pane.ui:122
@@ -2976,9 +2956,9 @@ msgstr ""
 
 #: ui/components-inspector-error-view.ui:33
 msgid ""
-"If the problem is serious or persists, please save and send these details to the <a href="
-"\"https://wiki.gnome.org/Apps/Geary/Contact\">mailing list</a> or attach to a <a href="
-"\"https://wiki.gnome.org/Apps/Geary/ReportingABug\">new bug report</a>."
+"If the problem is serious or persists, please save and send these details to the <a href=\"https://"
+"wiki.gnome.org/Apps/Geary/Contact\">mailing list</a> or attach to a <a href=\"https://wiki.gnome."
+"org/Apps/Geary/ReportingABug\">new bug report</a>."
 msgstr ""
 
 #: ui/components-inspector-error-view.ui:49
@@ -3079,143 +3059,143 @@ msgstr ""
 #. Translators: Menu item to reply to a specific message.
 #: ui/conversation-email-menus.ui:15
 msgid "Reply to _All"
-msgstr ""
+msgstr "ಎಲ್ಲರಿಗೆ ಉತ್ತರಿಸು (_A)"
 
 #. Translators: Menu item to mark a specific message as
 #. read.
 #: ui/conversation-email-menus.ui:30
 msgid "_Mark Read"
-msgstr ""
+msgstr "ಓದಿದೆ ಎಂದು ಗುರುತಿಸು (_M)"
 
 #: ui/conversation-email-menus.ui:36
 msgid "_Mark Unread"
-msgstr ""
+msgstr "ಓದಿಲ್ಲವೆಂದು ಗುರುತಿಸು (_M)"
 
 #. Translators: Menu item to mark all messages in a
 #. conversation from this one as unread.
 #: ui/conversation-email-menus.ui:42
 msgid "Mark Unread From _Here"
-msgstr ""
+msgstr "ಇಲ್ಲಿಂದ ಓದಿಲ್ಲವೆಂದು ಗುರುತಿಸು (_H)"
 
 #. Translators: Menu item to move a single, specific message
 #. to the trash folder
 #: ui/conversation-email-menus.ui:50
 msgid "Move message to _Trash"
-msgstr ""
+msgstr "ಸಂದೇಶವನ್ನು ಕಸದಬುಟ್ಟಿಗೆ ಹಾಕು (_T)"
 
 #. Translators: Menu item to delete a single, specific message
 #: ui/conversation-email-menus.ui:57
 msgid "_Delete message…"
-msgstr ""
+msgstr "ಸಂದೇಶ ಅಳಿಸಿಹಾಕು… (_D)"
 
 #. Translators: Menu item to view the source for a message
 #: ui/conversation-email-menus.ui:69
 msgid "_View Source"
-msgstr ""
+msgstr "ಆಕರ ನೋಡು (_V)"
 
 #: ui/conversation-message-link-popover.ui:54
 msgid "But actually goes to:"
-msgstr ""
+msgstr "ವಾಸ್ತವವಾಗಿ ಇಲ್ಲಿಗೆ ಕರೆದೊಯ್ಯಲಿದೆ:"
 
 #: ui/conversation-message-link-popover.ui:84
 msgid "The link appears to go to:"
-msgstr ""
+msgstr "ಕೊಂಡಿ ಇಲ್ಲಿಗೆ ಕರೆದೊಯ್ಯುವಂತಿದೆ:"
 
 #: ui/conversation-message-link-popover.ui:96
 msgid "Deceptive link found"
-msgstr ""
+msgstr "ವಂಚಕ ಕೊಂಡಿ ದರೆತಿದೆ"
 
 #: ui/conversation-message-link-popover.ui:111
 msgid "The email sender may be leading you to the wrong web site."
-msgstr ""
+msgstr "ಈ ಇಮೇಲ್ ಪ್ರೇಷಕ ನಿಮ್ಮನ್ನು ತಪ್ಪಾದ ಜಾಲತಾಣಕ್ಕೆ ಭೇಟಿನೀಡಲು ಉತ್ತೇಜಿಸುತ್ತಿರಬಹುದು."
 
 #: ui/conversation-message-link-popover.ui:124
 msgid "If unsure, contact the sender and ask before continuing."
-msgstr ""
+msgstr "ಸಂದೇಹವಿದ್ದಲ್ಲಿ, ಮುಂದುವರೆಯುವ ಮುನ್ನ ಪ್ರೇಷಕರನ್ನು ಸಂಪರ್ಕಿಸಿ."
 
 #: ui/conversation-message-menus.ui:7
 msgid "_Open Link"
-msgstr ""
+msgstr "ಕೊಂಡಿ ತೆರೆ… (_O)"
 
 #: ui/conversation-message-menus.ui:11
 msgid "Copy Link _Address"
-msgstr ""
+msgstr "ಕೊಂಡಿಯ ವಿಳಾಸವನ್ನು ನಕಲಿಸು… (_A)"
 
 #: ui/conversation-message-menus.ui:17
 msgid "_New Conversation…"
-msgstr ""
+msgstr "ಹೊಸ ಸಂಭಾಷಣೆ… (_N)"
 
 #: ui/conversation-message-menus.ui:21
 msgid "Copy Email _Address"
-msgstr ""
+msgstr "ಇಮೇಲ್ ವಿಳಸವನ್ನು ನಕಲಿಸು… (_A)"
 
 #: ui/conversation-message-menus.ui:27
 msgid "Save _Image As…"
-msgstr ""
+msgstr "ಚಿತ್ರವನ್ನು ಹೀಗೆ ಉಳಿಸು… (_I)"
 
 #: ui/conversation-message-menus.ui:33
 msgid "_Select All"
-msgstr ""
+msgstr "ಎಲ್ಲ ಆಯ್ಕೆಮಾಡಿ (_S)"
 
 #: ui/conversation-message.ui:63
 msgid "From <email>"
-msgstr ""
+msgstr "<email> ಇಂದ"
 
 #: ui/conversation-message.ui:79 ui/conversation-message.ui:178
 msgid "1/1/1970\t"
-msgstr ""
+msgstr "೧/೧/೧೯೭೦\t"
 
 #: ui/conversation-message.ui:102
 msgid "Preview body text."
-msgstr ""
+msgstr "ಮುಖ್ಯಪಠ್ಯದ ಮುನ್ನೋಟ ನೋಡಿ."
 
 #: ui/conversation-message.ui:202
 msgid "Sent by:"
-msgstr ""
+msgstr "ಇಂದ:"
 
 #: ui/conversation-message.ui:247
 msgid "Reply to:"
-msgstr ""
+msgstr "ಗೆ:"
 
 #: ui/conversation-message.ui:291
 msgid "Subject"
-msgstr ""
+msgstr "ವಿಷಯ"
 
 #: ui/conversation-viewer.ui:60
 msgid "Find in conversation"
-msgstr ""
+msgstr "ಸಂಭಾಷಣೆಯಲ್ಲಿ ಹುಡುಕು"
 
 #: ui/conversation-viewer.ui:75
 msgid "Find the previous occurrence of the search string."
-msgstr ""
+msgstr "ಹುಡುಕುಪದದ ಹಿಂದಿನ ಸಂಭವವನ್ನು ಹುಡುಕು."
 
 #: ui/conversation-viewer.ui:96
 msgid "Find the next occurrence of the search string."
-msgstr ""
+msgstr "ಹುಡುಕುಪದದ ಮುಂದಿನ ಸಂಭವವನ್ನು ಹುಡುಕು."
 
 #: ui/find_bar.glade:66
 msgid "Find:"
-msgstr ""
+msgstr "ಹುಡುಕು:"
 
 #: ui/find_bar.glade:89
 msgid "_Previous"
-msgstr ""
+msgstr "ಹಿಂದೆ (_P)"
 
 #: ui/find_bar.glade:107
 msgid "_Next"
-msgstr ""
+msgstr "ಮುಂದೆ (_N)"
 
 #: ui/find_bar.glade:125
 msgid "_Case sensitive"
-msgstr ""
+msgstr "ಕೇಸ್‌ ಸೆನ್ಸಿಟಿವ್‌ (_C)"
 
 #: ui/find_bar.glade:145
 msgid "label"
-msgstr ""
+msgstr "ಗುರುತುಪಟ್ಟಿ"
 
 #: ui/gtk/help-overlay.ui:9
 msgid "Conversation Shortcuts"
-msgstr ""
+msgstr "ಸಂಭಾಷಣೆ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳು"
 
 #: ui/gtk/help-overlay.ui:13 ui/gtk/help-overlay.ui:355
 msgctxt "shortcut window"
@@ -3390,7 +3370,7 @@ msgstr "ಒಂಟಿ-ಕೀಲಿ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳು‌"
 #: ui/gtk/help-overlay.ui:262
 msgctxt "shortcut window"
 msgid "Reply to sender "
-msgstr "ಪ್ರೇಷಕರಿಗೆ ಉತ್ತರಿ"
+msgstr "ಪ್ರೇಷಕರಿಗೆ ಉತ್ತರಿಸಿ‌ "
 
 #: ui/gtk/help-overlay.ui:332
 msgctxt "shortcut window"
@@ -3404,7 +3384,7 @@ msgstr "ಮುಂದಿನ/ಹಿಂದಿನ ಸಂಭಾಷಣೆಗಳನ್�
 
 #: ui/gtk/help-overlay.ui:351
 msgid "Composer Shortcuts"
-msgstr ""
+msgstr "ಸಂಯೋಜಕ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳು"
 
 #: ui/gtk/help-overlay.ui:359
 msgctxt "shortcut window"
@@ -3508,60 +3488,60 @@ msgstr "ಸಂದೇಶ ಸಂಯೋಜಿಸಿ"
 
 #: ui/main-toolbar.ui:62
 msgid "Toggle search bar"
-msgstr ""
+msgstr "ಹುಡುಕುಪಟ್ಟಿಯನ್ನು ಬದಲಿ"
 
 #: ui/main-toolbar.ui:114
 msgid "Reply"
-msgstr ""
+msgstr "ಉತ್ತರಿಸಿ"
 
 #: ui/main-toolbar.ui:137
 msgid "Reply All"
-msgstr ""
+msgstr "ಎಲ್ಲರಿಗೆ ಉತ್ತರಿಸಿ"
 
 #: ui/main-toolbar.ui:160
 msgid "Forward"
-msgstr ""
+msgstr "ಮುಂದುವರಿಸಿ"
 
 #: ui/main-toolbar.ui:265
 msgid "Toggle find bar"
-msgstr ""
+msgstr "ಹುಡುಕುಪಟ್ಟಿಯನ್ನು ಬದಲಿ"
 
 #: ui/main-toolbar.ui:286
 msgid "_Archive"
-msgstr ""
+msgstr "ದಫ್ತರಿಸಿ (_A)"
 
 #: ui/main-toolbar-menus.ui:21
 msgid "Toggle as _Junk"
-msgstr ""
+msgstr "ಕಸವೆಂದು ಬದಲಿಸಿ (_J)"
 
 #: ui/main-toolbar-menus.ui:28
 msgid "_Accounts"
-msgstr ""
+msgstr "ಖಾತೆಗಳು (_A)"
 
 #: ui/main-toolbar-menus.ui:36
 msgid "_Keyboard Shortcuts"
-msgstr ""
+msgstr "ಕೀಲಿಮಣೆ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳು (_K)"
 
 #: ui/main-toolbar-menus.ui:47
 msgid "_About Geary"
-msgstr ""
+msgstr "ಗೇರಿ ಬಗ್ಗೆ (_A)"
 
 #: ui/password-dialog.glade:74
 msgid "SMTP Credentials"
-msgstr ""
+msgstr "ಎಸ್‌ಎಮ್‌ಟಿಪಿ ಕ್ರೆಡೆನ್ಷಿಯಲ್‌ಗಳು"
 
 #: ui/password-dialog.glade:91
 msgid "Username"
-msgstr ""
+msgstr "ಬಳಕೆದಾರರ ಹೆಸರು"
 
 #: ui/password-dialog.glade:152
 msgid "_Remember password"
-msgstr ""
+msgstr "ಗುಪ್ತಪದವನ್ನು ನೆನಪಿಟ್ಟುಕೊ (_R)"
 
 #: ui/password-dialog.glade:210
 msgid "_Authenticate"
-msgstr ""
+msgstr "ದೃಢೀಕರಿಸಿ (_A)"
 
 #: ui/upgrade_dialog.glade:60
 msgid "Geary update in progress…"
-msgstr ""
+msgstr "ಗೇರಿಯನ್ನು ನವೀಕರಿಸಲಾಗುತ್ತಿದೆ…"
