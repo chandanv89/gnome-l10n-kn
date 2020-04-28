@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/geary/issues\n"
 "POT-Creation-Date: 2020-04-24 05:52+0000\n"
-"PO-Revision-Date: 2020-04-26 23:24+0100\n"
+"PO-Revision-Date: 2020-04-27 18:41+0100\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -55,16 +55,16 @@ msgstr "ಗೇರಿ ಅಭಿವೃದ್ಧಿ ತಂಡ"
 
 #: desktop/org.gnome.Geary.appdata.xml.in.in:18
 msgid ""
-"Geary is an email application built around conversations, for the GNOME 3 desktop. It allows you to "
-"read, find and send email with a straightforward, modern interface."
+"Geary is an email application built around conversations, for the GNOME 3 desktop. It allows you to read, "
+"find and send email with a straightforward, modern interface."
 msgstr ""
 "ಗೇರಿ ಗ್ನೋಮ್ 3 ಡೆಸ್ಕ್‌ಟಾಪ್‌ಗಾಗಿ ಅಭಿವೃದ್ಧಿ ಪಡಿಸಿದಂತಹ ಒಂದು ಇಮೇಲ್ ಅಪ್ಲಿಕೇಶನ್ ಆಗಿದೆ. ಇದು ತನ್ನ ಸುಲಭ ಮತ್ತು ಆಧುನಿಕ "
 "ವಿನ್ಯಾಸದೊಂದಿಗೆ ನಿಮ್ಮ ಇಮೇಲ್ ಅನ್ನು ಓದಲು, ಹುಡುಕಲು ಮತ್ತು ರವಾನಿಸಲು ಅನುವುಮಾಡಿಕೊಡುತ್ತದೆ."
 
 #: desktop/org.gnome.Geary.appdata.xml.in.in:23
 msgid ""
-"Conversations allow you to read a complete discussion without having to find and click from message "
-"to message."
+"Conversations allow you to read a complete discussion without having to find and click from message to "
+"message."
 msgstr "ನಿಮ್ಮ ಚರ್ಚೆಗಳನ್ನು ಸಂದೇಶದಿಂದ ಸಂದೇಶಕ್ಕೆ ಹುಡುಕಾಡದಂತೆ ಸರಾಗವಾಗಿ ಓದಲು ಸಂಭಾಷಣೆಗಳು ಅನುವುಮಾಡಿಕೊಡುತ್ತವೆ."
 
 #: desktop/org.gnome.Geary.appdata.xml.in.in:27
@@ -192,29 +192,28 @@ msgstr ""
 
 #: desktop/org.gnome.Geary.gschema.xml:62
 msgid "Autoselect next message"
-msgstr ""
+msgstr "ಮುಂದಿನ ಸಂದೇಶವನ್ನು ಸ್ವಯಂ ಆಯ್ಕೆಮಾಡು"
 
 #: desktop/org.gnome.Geary.gschema.xml:63
 msgid "True if we should autoselect the next available conversation."
-msgstr ""
+msgstr "ಮುಂದಿನ ಸಂದೇಶವನ್ನು ನಾವು ಸ್ವಯಂ ಆಯ್ಕೆ ಮಾಡಬೇಕೆಂದಾದರೆ ನಿಜ."
 
 #: desktop/org.gnome.Geary.gschema.xml:68
 msgid "Display message previews"
-msgstr ""
+msgstr "ಸಂದೇಶ ಮುನ್ನೋಟಗಳನ್ನು ಪ್ರದರ್ಶಿಸು"
 
 #: desktop/org.gnome.Geary.gschema.xml:69
 msgid "True if we should display a short preview of each message."
-msgstr ""
+msgstr "ಪ್ರತೀ ಸಂದೇಶದ ಕಿರುಮುನ್ನೋಟವನ್ನು ನಾವು ಪ್ರದರ್ಶಿಸಬೇಕೆಂದಾದರೆ ನಿಜ."
 
 #: desktop/org.gnome.Geary.gschema.xml:74
 msgid "Use single key shortcuts"
-msgstr ""
+msgstr "ಒಂಟಿ ಕೀಲಿ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳನ್ನು ಬಳಸು"
 
 #: desktop/org.gnome.Geary.gschema.xml:75
 msgid ""
-"Enables shortcuts for email actions that do not require pressing <Ctrl> to emulate those used by "
-"Gmail."
-msgstr ""
+"Enables shortcuts for email actions that do not require pressing <Ctrl> to emulate those used by Gmail."
+msgstr "ಜೀಮೇಲ್‌ನಿಂದ ಬಳಸಲ್ಪಡುವ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳಂತೆ <Ctrl> ಕೀಲಿ ಬಳಸದೇ ಅನುಕರಿಸಬಹುದಾದ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸುತ್ತದೆ."
 
 #: desktop/org.gnome.Geary.gschema.xml:82
 msgid "Languages that shall be used in the spell checker"
@@ -222,8 +221,8 @@ msgstr ""
 
 #: desktop/org.gnome.Geary.gschema.xml:83
 msgid ""
-"A list of POSIX locales, with the empty list disabling spell checking and the null list using "
-"desktop languages by default."
+"A list of POSIX locales, with the empty list disabling spell checking and the null list using desktop "
+"languages by default."
 msgstr ""
 
 #: desktop/org.gnome.Geary.gschema.xml:90
@@ -592,20 +591,17 @@ msgid "Redo"
 msgstr ""
 
 #: src/client/accounts/accounts-editor-list-pane.vala:358
-#: src/client/accounts/accounts-editor-list-pane.vala:446
-#: src/client/accounts/accounts-editor-row.vala:279
+#: src/client/accounts/accounts-editor-list-pane.vala:446 src/client/accounts/accounts-editor-row.vala:279
 msgid "Gmail"
 msgstr ""
 
 #: src/client/accounts/accounts-editor-list-pane.vala:362
-#: src/client/accounts/accounts-editor-list-pane.vala:450
-#: src/client/accounts/accounts-editor-row.vala:283
+#: src/client/accounts/accounts-editor-list-pane.vala:450 src/client/accounts/accounts-editor-row.vala:283
 msgid "Outlook.com"
 msgstr ""
 
 #: src/client/accounts/accounts-editor-list-pane.vala:366
-#: src/client/accounts/accounts-editor-list-pane.vala:454
-#: src/client/accounts/accounts-editor-row.vala:287
+#: src/client/accounts/accounts-editor-list-pane.vala:454 src/client/accounts/accounts-editor-row.vala:287
 msgid "Yahoo"
 msgstr ""
 
@@ -664,8 +660,7 @@ msgstr ""
 
 #. Translators: Label used when no auth scheme is used
 #. by an account's IMAP or SMTP service.
-#: src/client/accounts/accounts-editor-row.vala:480
-#: src/client/accounts/accounts-editor-servers-pane.vala:755
+#: src/client/accounts/accounts-editor-row.vala:480 src/client/accounts/accounts-editor-servers-pane.vala:755
 #: src/client/accounts/accounts-editor-servers-pane.vala:970
 msgid "None"
 msgstr ""
@@ -682,8 +677,7 @@ msgstr ""
 #. credentials (none, use IMAP, custom) when adding a new
 #. account
 #. Translators: An info bar button label
-#: src/client/accounts/accounts-editor-row.vala:535
-#: src/client/application/application-main-window.vala:544
+#: src/client/accounts/accounts-editor-row.vala:535 src/client/application/application-main-window.vala:544
 msgid "Login"
 msgstr ""
 
@@ -1049,15 +1043,15 @@ msgstr ""
 #: src/client/application/application-controller.vala:1306
 #, c-format
 msgid ""
-"There was an error opening the local mail database for this account. This is possibly due to "
-"corruption of the database file in this directory:\n"
+"There was an error opening the local mail database for this account. This is possibly due to corruption of "
+"the database file in this directory:\n"
 "\n"
 "%s\n"
 "\n"
 "Geary can rebuild the database and re-synchronize with the server or exit.\n"
 "\n"
-"Rebuilding the database will destroy all local email and its attachments. <b>The mail on the your "
-"server will not be affected.</b>"
+"Rebuilding the database will destroy all local email and its attachments. <b>The mail on the your server "
+"will not be affected.</b>"
 msgstr ""
 
 #: src/client/application/application-controller.vala:1308
@@ -1219,8 +1213,7 @@ msgstr ""
 #. be a human-friendly size string. For example:
 #. Document (100.9MB)
 #. / In the composer, the filename followed by its filesize, i.e. "notes.txt (1.12KB)"
-#: src/client/components/components-attachment-pane.vala:107
-#: src/client/composer/composer-widget.vala:1918
+#: src/client/components/components-attachment-pane.vala:107 src/client/composer/composer-widget.vala:1918
 #, c-format
 msgid "%s (%s)"
 msgstr ""
@@ -1257,8 +1250,7 @@ msgid "System"
 msgstr ""
 
 #. Button label for saving problem report information
-#: src/client/components/components-inspector.vala:226
-#: src/client/components/components-inspector.vala:229
+#: src/client/components/components-inspector.vala:226 src/client/components/components-inspector.vala:229
 #: src/client/dialogs/dialogs-problem-details-dialog.vala:221
 #: src/client/dialogs/dialogs-problem-details-dialog.vala:224 ui/problem-details-dialog.ui:42
 msgid "Save As"
@@ -1576,8 +1568,8 @@ msgstr ""
 #. locale and English versions included automatically.
 #: src/client/composer/composer-widget.vala:254
 msgid ""
-"attach|attaching|attaches|attachment|attachments|attached|enclose|enclosed|enclosing|encloses|"
-"enclosure|enclosures"
+"attach|attaching|attaches|attachment|attachments|attached|enclose|enclosed|enclosing|encloses|enclosure|"
+"enclosures"
 msgstr ""
 
 #. Translators: This dialog text is displayed to the
@@ -1640,22 +1632,20 @@ msgid "Cannot add attachment"
 msgstr ""
 
 #. Translators: Human-readable version of the RFC 822 To header
-#: src/client/composer/composer-widget.vala:2071
-#: src/client/conversation-viewer/conversation-email.vala:542 src/client/util/util-email.vala:236
-#: ui/conversation-message.ui:312
+#: src/client/composer/composer-widget.vala:2071 src/client/conversation-viewer/conversation-email.vala:542
+#: src/client/util/util-email.vala:236 ui/conversation-message.ui:312
 msgid "To:"
 msgstr ""
 
 #. Translators: Human-readable version of the RFC 822 CC header
-#: src/client/composer/composer-widget.vala:2077
-#: src/client/conversation-viewer/conversation-email.vala:547 src/client/util/util-email.vala:241
-#: ui/conversation-message.ui:357
+#: src/client/composer/composer-widget.vala:2077 src/client/conversation-viewer/conversation-email.vala:547
+#: src/client/util/util-email.vala:241 ui/conversation-message.ui:357
 msgid "Cc:"
 msgstr ""
 
 #. Translators: Human-readable version of the RFC 822 BCC header
-#: src/client/composer/composer-widget.vala:2083
-#: src/client/conversation-viewer/conversation-email.vala:552 ui/conversation-message.ui:402
+#: src/client/composer/composer-widget.vala:2083 src/client/conversation-viewer/conversation-email.vala:552
+#: ui/conversation-message.ui:402
 msgid "Bcc:"
 msgstr ""
 
@@ -1885,8 +1875,8 @@ msgstr ""
 
 #: src/client/dialogs/certificate-warning-dialog.vala:48
 msgid ""
-"Selecting “Trust This Server” or “Always Trust This Server” may cause your username and password to "
-"be transmitted insecurely."
+"Selecting “Trust This Server” or “Always Trust This Server” may cause your username and password to be "
+"transmitted insecurely."
 msgstr ""
 
 #: src/client/dialogs/certificate-warning-dialog.vala:56
@@ -1903,8 +1893,7 @@ msgstr ""
 
 #: src/client/dialogs/certificate-warning-dialog.vala:69
 msgid ""
-"Contact your system administrator or email service provider if you have any question about these "
-"issues."
+"Contact your system administrator or email service provider if you have any question about these issues."
 msgstr ""
 
 #: src/client/dialogs/certificate-warning-dialog.vala:76
@@ -2669,8 +2658,8 @@ msgstr ""
 
 #: ui/accounts_editor_remove_pane.ui:91
 msgid ""
-"Removing an account will remove it from Geary and delete locally cached email data from your "
-"computer, but not from your service provider."
+"Removing an account will remove it from Geary and delete locally cached email data from your computer, but "
+"not from your service provider."
 msgstr ""
 
 #: ui/accounts_editor_remove_pane.ui:122
@@ -2956,9 +2945,9 @@ msgstr ""
 
 #: ui/components-inspector-error-view.ui:33
 msgid ""
-"If the problem is serious or persists, please save and send these details to the <a href=\"https://"
-"wiki.gnome.org/Apps/Geary/Contact\">mailing list</a> or attach to a <a href=\"https://wiki.gnome."
-"org/Apps/Geary/ReportingABug\">new bug report</a>."
+"If the problem is serious or persists, please save and send these details to the <a href=\"https://wiki."
+"gnome.org/Apps/Geary/Contact\">mailing list</a> or attach to a <a href=\"https://wiki.gnome.org/Apps/Geary/"
+"ReportingABug\">new bug report</a>."
 msgstr ""
 
 #: ui/components-inspector-error-view.ui:49
