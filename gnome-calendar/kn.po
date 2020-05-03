@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-calendar/issues\n"
 "POT-Creation-Date: 2020-04-18 09:25+0000\n"
-"PO-Revision-Date: 2020-05-02 00:04+0100\n"
+"PO-Revision-Date: 2020-05-03 01:15+0100\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,9 +18,8 @@ msgstr ""
 "Last-Translator: Chandan Veerabhadrappa <chandanv89@gmail.com>\n"
 "Language: kn\n"
 
-#: data/appdata/org.gnome.Calendar.appdata.xml.in.in:7 data/org.gnome.Calendar.desktop.in.in:3
-#: src/main.c:35 src/gui/gcal-application.c:277 src/gui/gcal-quick-add-popover.ui:187
-#: src/gui/gcal-window.ui:163
+#: data/appdata/org.gnome.Calendar.appdata.xml.in.in:7 data/org.gnome.Calendar.desktop.in.in:3 src/main.c:35
+#: src/gui/gcal-application.c:277 src/gui/gcal-quick-add-popover.ui:187 src/gui/gcal-window.ui:163
 msgid "Calendar"
 msgstr "ಕ್ಯಾಲಂಡರ್"
 
@@ -30,22 +29,20 @@ msgstr "ಗ್ನೋಮ್‌ಗಾಗಿ ಕ್ಯಾಲಂಡರ್"
 
 #: data/appdata/org.gnome.Calendar.appdata.xml.in.in:11
 msgid ""
-"GNOME Calendar is a simple and beautiful calendar application designed to perfectly fit the GNOME "
-"desktop. By reusing the components which the GNOME desktop is built on, Calendar nicely integrates "
-"with the GNOME ecosystem."
+"GNOME Calendar is a simple and beautiful calendar application designed to perfectly fit the GNOME desktop. By "
+"reusing the components which the GNOME desktop is built on, Calendar nicely integrates with the GNOME ecosystem."
 msgstr ""
-"ಗ್ನೋಮ್ ಕ್ಯಾಲಂಡರ್ ಗ್ನೋಮ್ ಡೆಸ್ಕ್‌ಟಾಪಿಗೆ ಹೊಂದುವಂತೆ ರಚಿಸಲಾದ ಸುಲಭ ಮತ್ತು ಅಂದವಾದ ಒಂದು ಕ್ಯಾಲಂಡರ್ ಅಪ್ಲಿಕೇಶನ್ ಆಗಿದೆ. ಗ್ನೋಮ್ "
-"ಡೆಸ್ಕ್‌ಟಾಪಿನ ಮೂಲ ಘಟಕಗಳನ್ನು ಮರುಬಳಕೆ ಮಾಡಿಕೊಳ್ಳುವುದರ ಮೂಲಕ, ಈ ಕ್ಯಾಲಂಡರ್ ಗ್ನೋಮ್ ವ್ಯವಸ್ಥೆಯೊಂದಿಗೆ ಅಚ್ಚುಕಟ್ಟಾಗಿ "
-"ಹೊಂದಿಕೊಳ್ಳುತ್ತದೆ."
+"ಗ್ನೋಮ್ ಕ್ಯಾಲಂಡರ್ ಗ್ನೋಮ್ ಡೆಸ್ಕ್‌ಟಾಪಿಗೆ ಹೊಂದುವಂತೆ ರಚಿಸಲಾದ ಸುಲಭ ಮತ್ತು ಅಂದವಾದ ಒಂದು ಕ್ಯಾಲಂಡರ್ ಅಪ್ಲಿಕೇಶನ್ ಆಗಿದೆ. ಗ್ನೋಮ್ ಡೆಸ್ಕ್‌ಟಾಪಿನ ಮೂಲ "
+"ಘಟಕಗಳನ್ನು ಮರುಬಳಕೆ ಮಾಡಿಕೊಳ್ಳುವುದರ ಮೂಲಕ, ಈ ಕ್ಯಾಲಂಡರ್ ಗ್ನೋಮ್ ವ್ಯವಸ್ಥೆಯೊಂದಿಗೆ ಅಚ್ಚುಕಟ್ಟಾಗಿ ಹೊಂದಿಕೊಳ್ಳುತ್ತದೆ."
 
 #: data/appdata/org.gnome.Calendar.appdata.xml.in.in:16
 msgid ""
-"We aim to find the perfect balance between nicely crafted features and user-centred usability. No "
-"excess, nothing missing. You’ll feel comfortable using Calendar, like you’ve been using it for ages!"
+"We aim to find the perfect balance between nicely crafted features and user-centred usability. No excess, nothing "
+"missing. You’ll feel comfortable using Calendar, like you’ve been using it for ages!"
 msgstr ""
-"ಅತ್ಯುತ್ತಮವಾಗಿ ಕ್ರೋಢೀಕರಿಸಿದ ವೈಶಿಷ್ಟ್ಯಗಳು ಹಾಗು ಬಳಕೆದಾರ-ಕೇಂದ್ರಿತ ಉಪಯುಕ್ತತೆಗಳ ನಡುವಿನ ಸಂಪೂರ್ಣ ಸಮತೋಲನವನ್ನು ಕಾಪಾಡಲು "
-"ಶ್ರಮಿಸುತ್ತೇವೆ. ಹೆಚ್ಚು ಎನ್ನುವಂತಿಲ್ಲ, ಕಡಿಮೆ ಎನ್ನುವಂತಿಲ್ಲ. ಎಷ್ಟೋ ವರ್ಷಗಳಿಂದ ಬಳಸುತ್ತಿರುವಂತೆ, ಕ್ಯಾಲಂಡರ್ ನಿಮಗೆ ಆರಾಮದಾಯಕ "
-"ಅನುಭವ ಒದಗಿಸಲಿದೆ!"
+"ಅತ್ಯುತ್ತಮವಾಗಿ ಕ್ರೋಢೀಕರಿಸಿದ ವೈಶಿಷ್ಟ್ಯಗಳು ಹಾಗು ಬಳಕೆದಾರ-ಕೇಂದ್ರಿತ ಉಪಯುಕ್ತತೆಗಳ ನಡುವಿನ ಸಂಪೂರ್ಣ ಸಮತೋಲನವನ್ನು ಕಾಪಾಡಲು ನಾವು‌ "
+"ಶ್ರಮಿಸುತ್ತೇವೆ. ಹೆಚ್ಚು ಎನ್ನುವಂತಿಲ್ಲ, ಕಡಿಮೆ ಎನ್ನುವಂತಿಲ್ಲ. ಎಷ್ಟೋ ವರ್ಷಗಳಿಂದ ಬಳಸುತ್ತಿರುವಂತೆ, ಕ್ಯಾಲಂಡರ್ ನಿಮಗೆ ಆರಾಮದಾಯಕ ಅನುಭವ "
+"ಒದಗಿಸಲಿದೆ!"
 
 #: data/appdata/org.gnome.Calendar.appdata.xml.in.in:27
 msgid "Week view"
@@ -185,8 +182,7 @@ msgstr "ಕ್ಯಾಲಂಡರುಗಳನ್ನು ನಿರ್ವಹಿಸ�
 msgid "Calendar <b>%s</b> removed"
 msgstr "<b>%s</b> ಕ್ಯಾಲಂಡರನ್ನು ತೆಗೆದುಹಾಕಿದೆ"
 
-#: src/gui/calendar-management/gcal-calendars-page.ui:31 src/gui/gcal-window.c:722
-#: src/gui/gcal-window.c:726
+#: src/gui/calendar-management/gcal-calendars-page.ui:31 src/gui/gcal-window.c:722 src/gui/gcal-window.c:726
 msgid "Undo"
 msgstr "ಹಿಂದಿನದ್ದು"
 
@@ -202,8 +198,7 @@ msgstr "ಹೊಸ ಕ್ಯಾಲಂಡರ್"
 msgid "Calendar files"
 msgstr "ಕ್ಯಾಲಂಡರ್ ಕಡತಗಳು"
 
-#: src/gui/calendar-management/gcal-new-calendar-page.ui:33
-#: src/gui/calendar-management/gcal-new-calendar-page.ui:41
+#: src/gui/calendar-management/gcal-new-calendar-page.ui:33 src/gui/calendar-management/gcal-new-calendar-page.ui:41
 msgid "Calendar Name"
 msgstr "ಕ್ಯಾಲಂಡರ್ ಹೆಸರು"
 
@@ -213,10 +208,8 @@ msgstr "ಕ್ಯಾಲಂಡರನ್ನು ಆಮದಿಸುಕೊ"
 
 #: src/gui/calendar-management/gcal-new-calendar-page.ui:105
 msgid ""
-"Alternatively, enter the web address of an online calendar you want to import, or open a supported "
-"calendar file."
-msgstr ""
-"ಬದಲಾಗಿ, ನೀವು ಆಮದು ಮಾಡಬೇಕೆಂದಿರುವ ಕ್ಯಾಲಂಡರಿನ ಜಾಲಕೊಂಡಿಯನ್ನು ನಮೂದಿಸಿ ಅಥವಾ ಬೆಂಬಲಿತ ಕ್ಯಾಲಂಡರ್ ಕಡತವನ್ನು ತೆರೆಯಿರಿ."
+"Alternatively, enter the web address of an online calendar you want to import, or open a supported calendar file."
+msgstr "ಬದಲಾಗಿ, ನೀವು ಆಮದು ಮಾಡಬೇಕೆಂದಿರುವ ಕ್ಯಾಲಂಡರಿನ ಜಾಲಕೊಂಡಿಯನ್ನು ನಮೂದಿಸಿ ಅಥವಾ ಬೆಂಬಲಿತ ಕ್ಯಾಲಂಡರ್ ಕಡತವನ್ನು ತೆರೆಯಿರಿ."
 
 #: src/gui/calendar-management/gcal-new-calendar-page.ui:137
 msgid "Open a File"
@@ -228,11 +221,11 @@ msgstr "ಕ್ಯಾಲಂಡರುಗಳು"
 
 #: src/gui/calendar-management/gcal-new-calendar-page.ui:204
 msgid ""
-"If the calendar belongs to one of your online accounts, you can add it through the <a href=\"GOA"
-"\">online account settings</a>."
+"If the calendar belongs to one of your online accounts, you can add it through the <a href=\"GOA\">online account "
+"settings</a>."
 msgstr ""
-"ಈ ಕ್ಯಾಲಂಡರ್ ನಿಮ್ಮ ಯಾವುದಾದರು ಆನ್‌ಲೈನ್ ಖಾತೆಗಳಿಗೆ ಸೇರಿದ್ದಾದಲ್ಲಿ, ನೀವದನ್ನು <a href=\"GOA\">ಆನ್‌ಲೈನ್ ಖಾತೆ ಸಂರಚನೆ</"
-"a>ಗಳನ್ನು ಬಳಸಿ ಸೇರಿಸಬಹುದು."
+"ಈ ಕ್ಯಾಲಂಡರ್ ನಿಮ್ಮ ಯಾವುದಾದರು ಆನ್‌ಲೈನ್ ಖಾತೆಗಳಿಗೆ ಸೇರಿದ್ದಾದಲ್ಲಿ, ನೀವದನ್ನು <a href=\"GOA\">ಆನ್‌ಲೈನ್ ಖಾತೆ ಸಂರಚನೆ</a>ಗಳನ್ನು ಬಳಸಿ "
+"ಸೇರಿಸಬಹುದು."
 
 #: src/gui/calendar-management/gcal-new-calendar-page.ui:240
 msgid "User"
@@ -587,122 +580,122 @@ msgstr "%s (ಈ ಕ್ಯಾಲಂಡರನ್ನು‌ ಮಾರ್ಪಡಿಸ
 
 #: src/gui/gcal-quick-add-popover.c:244
 msgid "from next Monday"
-msgstr ""
+msgstr "ಮುಂದಿನ‌ ಸೋಮವಾರದಿಂದ‌"
 
 #: src/gui/gcal-quick-add-popover.c:245
 msgid "from next Tuesday"
-msgstr ""
+msgstr "ಮುಂದಿನ ಮಂಗಳ‌ವಾರದಿಂದ‌"
 
 #: src/gui/gcal-quick-add-popover.c:246
 msgid "from next Wednesday"
-msgstr ""
+msgstr "ಮುಂದಿನ‌ ಬುಧವಾರದಿಂದ‌"
 
 #: src/gui/gcal-quick-add-popover.c:247
 msgid "from next Thursday"
-msgstr ""
+msgstr "ಮುಂದಿನ‌ ಗುರು‌ವಾರದಿಂದ‌"
 
 #: src/gui/gcal-quick-add-popover.c:248
 msgid "from next Friday"
-msgstr ""
+msgstr "ಮುಂದಿನ‌ ಶುಕ್ರವಾರದಿಂದ‌"
 
 #: src/gui/gcal-quick-add-popover.c:249
 msgid "from next Saturday"
-msgstr ""
+msgstr "ಮುಂದಿನ‌ ಶನಿವಾರದಿಂದ‌"
 
 #: src/gui/gcal-quick-add-popover.c:250
 msgid "from next Sunday"
-msgstr ""
+msgstr "ಮುಂದಿನ‌ ಭಾನು‌ವಾರದಿಂದ‌"
 
 #: src/gui/gcal-quick-add-popover.c:255
 msgid "to next Monday"
-msgstr ""
+msgstr "ಮುಂದಿನ‌ ಸೋಮವಾರದ‌ ವರೆಗೆ‌"
 
 #: src/gui/gcal-quick-add-popover.c:256
 msgid "to next Tuesday"
-msgstr ""
+msgstr "ಮುಂದಿನ‌ ಮಂಗಳ‌ವಾರದ‌ ವರೆಗೆ‌"
 
 #: src/gui/gcal-quick-add-popover.c:257
 msgid "to next Wednesday"
-msgstr ""
+msgstr "ಮುಂದಿನ‌ ಬುಧವಾರದ‌ ವರೆಗೆ‌"
 
 #: src/gui/gcal-quick-add-popover.c:258
 msgid "to next Thursday"
-msgstr ""
+msgstr "ಮುಂದಿನ‌ ಗುರು‌ವಾರದ‌ ವರೆಗೆ‌"
 
 #: src/gui/gcal-quick-add-popover.c:259
 msgid "to next Friday"
-msgstr ""
+msgstr "ಮುಂದಿನ‌ ಶುಕ್ರ‌ವಾರದ‌ ವರೆಗೆ‌"
 
 #: src/gui/gcal-quick-add-popover.c:260
 msgid "to next Saturday"
-msgstr ""
+msgstr "ಮುಂದಿನ‌ ಶನಿ‌ವಾರದ‌ ವರೆಗೆ‌"
 
 #: src/gui/gcal-quick-add-popover.c:261
 msgid "to next Sunday"
-msgstr ""
+msgstr "ಮುಂದಿನ‌ ಭಾನು‌ವಾರದ‌ ವರೆಗೆ‌"
 
 #: src/gui/gcal-quick-add-popover.c:266
 msgid "January"
-msgstr ""
+msgstr "ಜನವರಿ‌"
 
 #: src/gui/gcal-quick-add-popover.c:267
 msgid "February"
-msgstr ""
+msgstr "ಫೆಬ್ರವರಿ‌"
 
 #: src/gui/gcal-quick-add-popover.c:268
 msgid "March"
-msgstr ""
+msgstr "ಮಾ‌ರ್ಚಿ"
 
 #: src/gui/gcal-quick-add-popover.c:269
 msgid "April"
-msgstr ""
+msgstr "ಏಪ್ರಿಲ್‌"
 
 #: src/gui/gcal-quick-add-popover.c:270
 msgid "May"
-msgstr ""
+msgstr "ಮೇ"
 
 #: src/gui/gcal-quick-add-popover.c:271
 msgid "June"
-msgstr ""
+msgstr "ಜೂನ್‌"
 
 #: src/gui/gcal-quick-add-popover.c:272
 msgid "July"
-msgstr ""
+msgstr "ಜುಲೈ‌"
 
 #: src/gui/gcal-quick-add-popover.c:273
 msgid "August"
-msgstr ""
+msgstr "ಆಗಸ್ಟ್‌"
 
 #: src/gui/gcal-quick-add-popover.c:274
 msgid "September"
-msgstr ""
+msgstr "ಸೆಪ್ಟೆಂಬರ್‌"
 
 #: src/gui/gcal-quick-add-popover.c:275
 msgid "October"
-msgstr ""
+msgstr "ಅಕ್ಟೋಬರ್‌"
 
 #: src/gui/gcal-quick-add-popover.c:276
 msgid "November"
-msgstr ""
+msgstr "ನವೆಂಬರ್‌"
 
 #: src/gui/gcal-quick-add-popover.c:277
 msgid "December"
-msgstr ""
+msgstr "ಡಿಸೆಂಬರ್‌"
 
 #: src/gui/gcal-quick-add-popover.c:286
 #, c-format
 msgid "from Today"
-msgstr ""
+msgstr "ಇಂದಿನಿಂದ‌"
 
 #: src/gui/gcal-quick-add-popover.c:290
 #, c-format
 msgid "from Tomorrow"
-msgstr ""
+msgstr "ನಾಳೆಯಿಂದ"
 
 #: src/gui/gcal-quick-add-popover.c:294
 #, c-format
 msgid "from Yesterday"
-msgstr ""
+msgstr "ನೆನ್ನೆಯಿಂದ"
 
 #. Translators:
 #. * this is the format string for representing a date consisting of a month
@@ -711,22 +704,22 @@ msgstr ""
 #: src/gui/gcal-quick-add-popover.c:312
 #, c-format
 msgid "from %1$s %2$s"
-msgstr ""
+msgstr "%1$s %2$s ಇಂದ‌"
 
 #: src/gui/gcal-quick-add-popover.c:323
 #, c-format
 msgid "to Today"
-msgstr ""
+msgstr "ಇಂದಿನವರೆಗೆ‌"
 
 #: src/gui/gcal-quick-add-popover.c:327
 #, c-format
 msgid "to Tomorrow"
-msgstr ""
+msgstr "ನಾಳೆವರೆಗೆ‌"
 
 #: src/gui/gcal-quick-add-popover.c:331
 #, c-format
 msgid "to Yesterday"
-msgstr ""
+msgstr "ನೆನ್ನೆವರೆಗೆ‌"
 
 #. Translators:
 #. * this is the format string for representing a date consisting of a month
@@ -735,121 +728,121 @@ msgstr ""
 #: src/gui/gcal-quick-add-popover.c:349
 #, c-format
 msgid "to %1$s %2$s"
-msgstr ""
+msgstr "%1$s %2$s ವರೆಗೆ‌"
 
 #. Translators: %1$s is the start date (e.g. "from Today") and %2$s is the end date (e.g. "to Tomorrow")
 #: src/gui/gcal-quick-add-popover.c:356
 #, c-format
 msgid "New Event %1$s %2$s"
-msgstr ""
+msgstr "%1$s %2$s ಹೊಸ‌ ಘಳಿಗೆ‌"
 
 #: src/gui/gcal-quick-add-popover.c:373
 #, c-format
 msgid "New Event Today"
-msgstr ""
+msgstr "ಇಂದು‌ ಹೊಸ‌ ಘಳಿಗೆ‌"
 
 #: src/gui/gcal-quick-add-popover.c:377
 #, c-format
 msgid "New Event Tomorrow"
-msgstr ""
+msgstr "ನಾಳೆ ಹೊಸ‌ ಘಳಿಗೆ‌"
 
 #: src/gui/gcal-quick-add-popover.c:381
 #, c-format
 msgid "New Event Yesterday"
-msgstr ""
+msgstr "ನೆನ್ನೆ‌ ಹೊಸ‌ ಘಳಿಗೆ‌"
 
 #: src/gui/gcal-quick-add-popover.c:387
 msgid "New Event next Monday"
-msgstr ""
+msgstr "ಮುಂದಿನ‌ ಸೋಮವಾರ‌ ಹೊಸ‌‌ ಘಳಿಗೆ‌"
 
 #: src/gui/gcal-quick-add-popover.c:388
 msgid "New Event next Tuesday"
-msgstr ""
+msgstr "ಮುಂದಿನ‌ ಮಂಗಳ‌ವಾರ‌ ಹೊಸ‌‌ ಘಳಿಗೆ‌"
 
 #: src/gui/gcal-quick-add-popover.c:389
 msgid "New Event next Wednesday"
-msgstr ""
+msgstr "ಮುಂದಿನ‌ ಬುಧವಾರ‌ ಹೊಸ‌‌ ಘಳಿಗೆ‌"
 
 #: src/gui/gcal-quick-add-popover.c:390
 msgid "New Event next Thursday"
-msgstr ""
+msgstr "ಮುಂದಿನ‌ ಗುರು‌ವಾರ‌ ಹೊಸ‌‌ ಘಳಿಗೆ‌"
 
 #: src/gui/gcal-quick-add-popover.c:391
 msgid "New Event next Friday"
-msgstr ""
+msgstr "ಮುಂದಿನ‌ ಶುಕ್ರ‌ವಾರ‌ ಹೊಸ‌‌ ಘಳಿಗೆ‌"
 
 #: src/gui/gcal-quick-add-popover.c:392
 msgid "New Event next Saturday"
-msgstr ""
+msgstr "ಮುಂದಿನ‌ ಶನಿ‌ವಾರ‌ ಹೊಸ‌‌ ಘಳಿಗೆ‌"
 
 #: src/gui/gcal-quick-add-popover.c:393
 msgid "New Event next Sunday"
-msgstr ""
+msgstr "ಮುಂದಿನ‌ ಭಾನು‌ವಾರ‌ ಹೊಸ‌‌ ಘಳಿಗೆ‌"
 
 #. Translators: %d is the numeric day of month
 #: src/gui/gcal-quick-add-popover.c:405
 #, c-format
 msgid "New Event on January %d"
-msgstr ""
+msgstr "ಜನವರಿ‌ %dರಂದು‌ ಹೊಸ‌ ಘಳಿಗೆ‌"
 
 #: src/gui/gcal-quick-add-popover.c:406
 #, c-format
 msgid "New Event on February %d"
-msgstr ""
+msgstr "ಫೆಬ್ರವರಿ‌ %dರಂದು‌ ಹೊಸ‌ ಘಳಿಗೆ‌"
 
 #: src/gui/gcal-quick-add-popover.c:407
 #, c-format
 msgid "New Event on March %d"
-msgstr ""
+msgstr "ಮಾರ್ಚಿ‌ %dರಂದು‌ ಹೊಸ‌ ಘಳಿಗೆ‌"
 
 #: src/gui/gcal-quick-add-popover.c:408
 #, c-format
 msgid "New Event on April %d"
-msgstr ""
+msgstr "ಏಪ್ರಿಲ್‌ %dರಂದು‌ ಹೊಸ‌ ಘಳಿಗೆ‌"
 
 #: src/gui/gcal-quick-add-popover.c:409
 #, c-format
 msgid "New Event on May %d"
-msgstr ""
+msgstr "ಮೇ %dರಂದು‌ ಹೊಸ‌ ಘಳಿಗೆ‌"
 
 #: src/gui/gcal-quick-add-popover.c:410
 #, c-format
 msgid "New Event on June %d"
-msgstr ""
+msgstr "ಜೂನ್‌ %dರಂದು‌ ಹೊಸ‌ ಘಳಿಗೆ‌"
 
 #: src/gui/gcal-quick-add-popover.c:411
 #, c-format
 msgid "New Event on July %d"
-msgstr ""
+msgstr "ಜುಲೈ‌ %dರಂದು‌ ಹೊಸ‌ ಘಳಿಗೆ‌"
 
 #: src/gui/gcal-quick-add-popover.c:412
 #, c-format
 msgid "New Event on August %d"
-msgstr ""
+msgstr "ಆಗಸ್ಟ್‌ %dರಂದು‌ ಹೊಸ‌ ಘಳಿಗೆ‌"
 
 #: src/gui/gcal-quick-add-popover.c:413
 #, c-format
 msgid "New Event on September %d"
-msgstr ""
+msgstr "ಸೆಪ್ಟೆಂಬರ್‌ %dರಂದು‌ ಹೊಸ‌ ಘಳಿಗೆ‌"
 
 #: src/gui/gcal-quick-add-popover.c:414
 #, c-format
 msgid "New Event on October %d"
-msgstr ""
+msgstr "ಅಕ್ಟೋಬರ್‌ %dರಂದು‌ ಹೊಸ‌ ಘಳಿಗೆ‌"
 
 #: src/gui/gcal-quick-add-popover.c:415
 #, c-format
 msgid "New Event on November %d"
-msgstr ""
+msgstr "ನವೆಂಬರ್‌ %dರಂದು‌ ಹೊಸ‌ ಘಳಿಗೆ‌"
 
 #: src/gui/gcal-quick-add-popover.c:416
 #, c-format
 msgid "New Event on December %d"
-msgstr ""
+msgstr "ಡಿಸೆಂಬರ್‌ %dರಂದು‌ ಹೊಸ‌ ಘಳಿಗೆ‌"
 
 #: src/gui/gcal-quick-add-popover.ui:117
 msgid "Edit Details…"
-msgstr ""
+msgstr "ವಿವರಗಳನ್ನು‌ ಪರಿಷ್ಕರಿಸಿ‌…"
 
 #: src/gui/gcal-time-selector.ui:22
 msgid ":"
@@ -857,31 +850,31 @@ msgstr ":"
 
 #: src/gui/gcal-time-selector.ui:47 src/views/gcal-week-view.c:440
 msgid "AM"
-msgstr "AM"
+msgstr "ಬೆಳೆಗ್ಗೆ‌"
 
 #: src/gui/gcal-time-selector.ui:48 src/views/gcal-week-view.c:440
 msgid "PM"
-msgstr "PM"
+msgstr "ಮಧ್ಯಾಹ್ನ"
 
 #: src/gui/gcal-window.c:722
 msgid "Another event deleted"
-msgstr ""
+msgstr "ಮತ್ತೊಂದು‌ ಘಳಿಗೆಯನ್ನು‌ ತೆಗೆದುಹಾಕಲಾಗಿ‌ದೆ‌"
 
 #: src/gui/gcal-window.c:726
 msgid "Event deleted"
-msgstr ""
+msgstr "ಘಳಿಗೆಯನ್ನು‌ ತೆಗೆದುಹಾಕಲಾಗಿದೆ‌"
 
 #: src/gui/gcal-window.ui:43
 msgid "Week"
-msgstr ""
+msgstr "ವಾರ‌"
 
 #: src/gui/gcal-window.ui:58
 msgid "Month"
-msgstr ""
+msgstr "ತಿಂಗಳು‌"
 
 #: src/gui/gcal-window.ui:72
 msgid "Year"
-msgstr ""
+msgstr "ವರ್ಷ‌"
 
 #: src/gui/gcal-window.ui:169
 msgctxt "tooltip"
@@ -890,7 +883,7 @@ msgstr "ಹೊಸ ಘಳಿಗೆಯನ್ನು ಸೇರಿಸಿ"
 
 #: src/gui/gcal-window.ui:258
 msgid "Manage your calendars"
-msgstr ""
+msgstr "ನಿಮ್ಮ ಕ್ಯಾಲಂಡರುಗಳನ್ನು‌ ನಿರ್ವಹಿಸಿ‌"
 
 #: src/gui/gcal-window.ui:269
 msgctxt "tooltip"
@@ -899,19 +892,19 @@ msgstr "ಘಳಿಗೆಗಳಿಗಾಗಿ ಹುಡುಕಿ"
 
 #: src/gui/gcal-window.ui:309
 msgid "_Online Accounts…"
-msgstr ""
+msgstr "ಆನ್‌ಲೈನ್‌ ಖಾತೆಗಳು… (_O)"
 
 #: src/gui/gcal-window.ui:318 src/weather/gcal-weather-settings.ui:12
 msgid "_Weather"
-msgstr ""
+msgstr "ಹವಾಮಾನ‌ (_W)"
 
 #: src/gui/gcal-window.ui:333
 msgid "_Keyboard Shortcuts"
-msgstr ""
+msgstr "ಕೀಲಿಮಣೆ‌ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳು‌ (_K)"
 
 #: src/gui/gcal-window.ui:342
 msgid "_About Calendar"
-msgstr ""
+msgstr "ಕ್ಯಾಲಂಡರ್‌ ಬಗ್ಗೆ‌ (_A)"
 
 #: src/help-overlay.ui:13
 msgctxt "shortcut window"
@@ -994,25 +987,24 @@ msgid "Year view"
 msgstr "ವಾರ್ಷಿಕ ನೋಟ"
 
 #: src/utils/gcal-utils.c:958
-msgid ""
-"The event you are trying to modify is recurring. The changes you have selected should be applied to:"
-msgstr ""
+msgid "The event you are trying to modify is recurring. The changes you have selected should be applied to:"
+msgstr "ನೀವು‌ ಮಾರ್ಪಾಡುಮಾಡಲು‌ ಪ್ರಯತ್ನಿಸುತ್ತಿರುವ‌ ಘಳಿಗೆಯು‌ ಪುನರಾವರ್ತಿಸಿದೆ. ನೀವು‌ ಆಯ್ಕೆಮಾಡಿರುವ‌ ಬದಲಾವಣೆಗಳು‌ ಇವುಗಳಿಗೆ‌ ಅನ್ವಯವಾಗವೆ:"
 
 #: src/utils/gcal-utils.c:961
 msgid "_Cancel"
-msgstr ""
+msgstr "ರದ್ದುಮಾಡು‌ (_C)"
 
 #: src/utils/gcal-utils.c:963
 msgid "_Only This Event"
-msgstr ""
+msgstr "ಈ ಘಳಿಗೆ‌ ಮಾತ್ರ‌ (_O)"
 
 #: src/utils/gcal-utils.c:970
 msgid "_Subsequent events"
-msgstr ""
+msgstr "ನಂತರದ‌ ಘಳಿಗೆಗಳು‌ (_S)"
 
 #: src/utils/gcal-utils.c:972
 msgid "_All events"
-msgstr ""
+msgstr "ಎಲ್ಲಾ ಘಳಿಗೆಗಳು (_A)"
 
 #: src/views/gcal-month-popover.ui:91
 msgid "New Event…"
@@ -1020,7 +1012,7 @@ msgstr "ಹೊಸ ಘಳಿಗೆ…"
 
 #: src/views/gcal-week-grid.c:680 src/views/gcal-week-view.c:293
 msgid "00 AM"
-msgstr "00 AM"
+msgstr "00 ಬೆಳಿಗ್ಗೆ‌"
 
 #: src/views/gcal-week-grid.c:683 src/views/gcal-week-view.c:296
 msgid "00:00"
