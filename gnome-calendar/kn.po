@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-calendar/issues\n"
 "POT-Creation-Date: 2020-04-18 09:25+0000\n"
-"PO-Revision-Date: 2020-05-03 01:15+0100\n"
+"PO-Revision-Date: 2020-05-03 12:46+0100\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,24 +29,23 @@ msgstr "ಗ್ನೋಮ್‌ಗಾಗಿ ಕ್ಯಾಲಂಡರ್"
 
 #: data/appdata/org.gnome.Calendar.appdata.xml.in.in:11
 msgid ""
-"GNOME Calendar is a simple and beautiful calendar application designed to perfectly fit the GNOME desktop. By "
-"reusing the components which the GNOME desktop is built on, Calendar nicely integrates with the GNOME ecosystem."
+"GNOME Calendar is a simple and beautiful calendar application designed to perfectly fit the GNOME desktop. By reusing the "
+"components which the GNOME desktop is built on, Calendar nicely integrates with the GNOME ecosystem."
 msgstr ""
-"ಗ್ನೋಮ್ ಕ್ಯಾಲಂಡರ್ ಗ್ನೋಮ್ ಡೆಸ್ಕ್‌ಟಾಪಿಗೆ ಹೊಂದುವಂತೆ ರಚಿಸಲಾದ ಸುಲಭ ಮತ್ತು ಅಂದವಾದ ಒಂದು ಕ್ಯಾಲಂಡರ್ ಅಪ್ಲಿಕೇಶನ್ ಆಗಿದೆ. ಗ್ನೋಮ್ ಡೆಸ್ಕ್‌ಟಾಪಿನ ಮೂಲ "
-"ಘಟಕಗಳನ್ನು ಮರುಬಳಕೆ ಮಾಡಿಕೊಳ್ಳುವುದರ ಮೂಲಕ, ಈ ಕ್ಯಾಲಂಡರ್ ಗ್ನೋಮ್ ವ್ಯವಸ್ಥೆಯೊಂದಿಗೆ ಅಚ್ಚುಕಟ್ಟಾಗಿ ಹೊಂದಿಕೊಳ್ಳುತ್ತದೆ."
+"ಗ್ನೋಮ್ ಕ್ಯಾಲಂಡರ್ ಗ್ನೋಮ್ ಡೆಸ್ಕ್‌ಟಾಪಿಗೆ ಹೊಂದುವಂತೆ ರಚಿಸಲಾದ ಸುಲಭ ಮತ್ತು ಅಂದವಾದ ಒಂದು ಕ್ಯಾಲಂಡರ್ ಅಪ್ಲಿಕೇಶನ್ ಆಗಿದೆ. ಗ್ನೋಮ್ ಡೆಸ್ಕ್‌ಟಾಪಿನ ಮೂಲ ಘಟಕಗಳನ್ನು ಮರುಬಳಕೆ "
+"ಮಾಡಿಕೊಳ್ಳುವುದರ ಮೂಲಕ, ಈ ಕ್ಯಾಲಂಡರ್ ಗ್ನೋಮ್ ವ್ಯವಸ್ಥೆಯೊಂದಿಗೆ ಅಚ್ಚುಕಟ್ಟಾಗಿ ಹೊಂದಿಕೊಳ್ಳುತ್ತದೆ."
 
 #: data/appdata/org.gnome.Calendar.appdata.xml.in.in:16
 msgid ""
-"We aim to find the perfect balance between nicely crafted features and user-centred usability. No excess, nothing "
-"missing. You’ll feel comfortable using Calendar, like you’ve been using it for ages!"
+"We aim to find the perfect balance between nicely crafted features and user-centred usability. No excess, nothing missing. You’ll "
+"feel comfortable using Calendar, like you’ve been using it for ages!"
 msgstr ""
-"ಅತ್ಯುತ್ತಮವಾಗಿ ಕ್ರೋಢೀಕರಿಸಿದ ವೈಶಿಷ್ಟ್ಯಗಳು ಹಾಗು ಬಳಕೆದಾರ-ಕೇಂದ್ರಿತ ಉಪಯುಕ್ತತೆಗಳ ನಡುವಿನ ಸಂಪೂರ್ಣ ಸಮತೋಲನವನ್ನು ಕಾಪಾಡಲು ನಾವು‌ "
-"ಶ್ರಮಿಸುತ್ತೇವೆ. ಹೆಚ್ಚು ಎನ್ನುವಂತಿಲ್ಲ, ಕಡಿಮೆ ಎನ್ನುವಂತಿಲ್ಲ. ಎಷ್ಟೋ ವರ್ಷಗಳಿಂದ ಬಳಸುತ್ತಿರುವಂತೆ, ಕ್ಯಾಲಂಡರ್ ನಿಮಗೆ ಆರಾಮದಾಯಕ ಅನುಭವ "
-"ಒದಗಿಸಲಿದೆ!"
+"ಅತ್ಯುತ್ತಮವಾಗಿ ಕ್ರೋಢೀಕರಿಸಿದ ವೈಶಿಷ್ಟ್ಯಗಳು ಹಾಗು ಬಳಕೆದಾರ-ಕೇಂದ್ರಿತ ಉಪಯುಕ್ತತೆಗಳ ನಡುವಿನ ಸಂಪೂರ್ಣ ಸಮತೋಲನವನ್ನು ಕಾಪಾಡಲು ನಾವು‌ ಶ್ರಮಿಸುತ್ತೇವೆ. ಹೆಚ್ಚು "
+"ಎನ್ನುವಂತಿಲ್ಲ, ಕಡಿಮೆ ಎನ್ನುವಂತಿಲ್ಲ. ಎಷ್ಟೋ ವರ್ಷಗಳಿಂದ ಬಳಸುತ್ತಿರುವಂತೆ, ಕ್ಯಾಲಂಡರ್ ನಿಮಗೆ ಆರಾಮದಾಯಕ ಅನುಭವ ಒದಗಿಸಲಿದೆ!"
 
 #: data/appdata/org.gnome.Calendar.appdata.xml.in.in:27
 msgid "Week view"
-msgstr "ಸಪ್ತಾಹಿಕ ನೋಟ"
+msgstr "ಸಾಪ್ತಾಹಿಕ‌ ನೋಟ"
 
 #: data/appdata/org.gnome.Calendar.appdata.xml.in.in:31
 msgid "Search for events"
@@ -155,8 +154,7 @@ msgstr "ಸ್ಥಳ"
 msgid "Calendar name"
 msgstr "ಕ್ಯಾಲಂಡರ್ ಹೆಸರು"
 
-#: src/gui/calendar-management/gcal-edit-calendar-page.ui:121
-#: src/gui/calendar-management/gcal-new-calendar-page.ui:65
+#: src/gui/calendar-management/gcal-edit-calendar-page.ui:121 src/gui/calendar-management/gcal-new-calendar-page.ui:65
 msgid "Color"
 msgstr "ಬಣ್ಣ"
 
@@ -207,8 +205,7 @@ msgid "Import a Calendar"
 msgstr "ಕ್ಯಾಲಂಡರನ್ನು ಆಮದಿಸುಕೊ"
 
 #: src/gui/calendar-management/gcal-new-calendar-page.ui:105
-msgid ""
-"Alternatively, enter the web address of an online calendar you want to import, or open a supported calendar file."
+msgid "Alternatively, enter the web address of an online calendar you want to import, or open a supported calendar file."
 msgstr "ಬದಲಾಗಿ, ನೀವು ಆಮದು ಮಾಡಬೇಕೆಂದಿರುವ ಕ್ಯಾಲಂಡರಿನ ಜಾಲಕೊಂಡಿಯನ್ನು ನಮೂದಿಸಿ ಅಥವಾ ಬೆಂಬಲಿತ ಕ್ಯಾಲಂಡರ್ ಕಡತವನ್ನು ತೆರೆಯಿರಿ."
 
 #: src/gui/calendar-management/gcal-new-calendar-page.ui:137
@@ -221,11 +218,8 @@ msgstr "ಕ್ಯಾಲಂಡರುಗಳು"
 
 #: src/gui/calendar-management/gcal-new-calendar-page.ui:204
 msgid ""
-"If the calendar belongs to one of your online accounts, you can add it through the <a href=\"GOA\">online account "
-"settings</a>."
-msgstr ""
-"ಈ ಕ್ಯಾಲಂಡರ್ ನಿಮ್ಮ ಯಾವುದಾದರು ಆನ್‌ಲೈನ್ ಖಾತೆಗಳಿಗೆ ಸೇರಿದ್ದಾದಲ್ಲಿ, ನೀವದನ್ನು <a href=\"GOA\">ಆನ್‌ಲೈನ್ ಖಾತೆ ಸಂರಚನೆ</a>ಗಳನ್ನು ಬಳಸಿ "
-"ಸೇರಿಸಬಹುದು."
+"If the calendar belongs to one of your online accounts, you can add it through the <a href=\"GOA\">online account settings</a>."
+msgstr "ಈ ಕ್ಯಾಲಂಡರ್ ನಿಮ್ಮ ಯಾವುದಾದರು ಆನ್‌ಲೈನ್ ಖಾತೆಗಳಿಗೆ ಸೇರಿದ್ದಾದಲ್ಲಿ, ನೀವದನ್ನು <a href=\"GOA\">ಆನ್‌ಲೈನ್ ಖಾತೆ ಸಂರಚನೆ</a>ಗಳನ್ನು ಬಳಸಿ ಸೇರಿಸಬಹುದು."
 
 #: src/gui/calendar-management/gcal-new-calendar-page.ui:240
 msgid "User"
@@ -235,8 +229,8 @@ msgstr "ಬಳಕೆದಾರ"
 msgid "Password"
 msgstr "ಗುಪ್ತಪದ"
 
-#: src/gui/calendar-management/gcal-new-calendar-page.ui:302
-#: src/gui/calendar-management/gcal-new-calendar-page.ui:341 src/gui/gcal-edit-dialog.ui:17
+#: src/gui/calendar-management/gcal-new-calendar-page.ui:302 src/gui/calendar-management/gcal-new-calendar-page.ui:341
+#: src/gui/gcal-edit-dialog.ui:17
 msgid "Cancel"
 msgstr "ರದ್ದು"
 
@@ -411,8 +405,8 @@ msgstr "ಕಳೆದ %A"
 msgid "Yesterday"
 msgstr "ನೆನ್ನೆ"
 
-#: src/gui/gcal-edit-dialog.c:424 src/gui/gcal-window.ui:180 src/views/gcal-year-view.c:282
-#: src/views/gcal-year-view.c:560 src/views/gcal-year-view.ui:88
+#: src/gui/gcal-edit-dialog.c:424 src/gui/gcal-window.ui:180 src/views/gcal-year-view.c:282 src/views/gcal-year-view.c:560
+#: src/views/gcal-year-view.ui:88
 msgid "Today"
 msgstr "ಇಂದು"
 
@@ -988,7 +982,7 @@ msgstr "ವಾರ್ಷಿಕ ನೋಟ"
 
 #: src/utils/gcal-utils.c:958
 msgid "The event you are trying to modify is recurring. The changes you have selected should be applied to:"
-msgstr "ನೀವು‌ ಮಾರ್ಪಾಡುಮಾಡಲು‌ ಪ್ರಯತ್ನಿಸುತ್ತಿರುವ‌ ಘಳಿಗೆಯು‌ ಪುನರಾವರ್ತಿಸಿದೆ. ನೀವು‌ ಆಯ್ಕೆಮಾಡಿರುವ‌ ಬದಲಾವಣೆಗಳು‌ ಇವುಗಳಿಗೆ‌ ಅನ್ವಯವಾಗವೆ:"
+msgstr "ನೀವು‌ ಮಾರ್ಪಾಡುಮಾಡಲು‌ ಪ್ರಯತ್ನಿಸುತ್ತಿರುವ‌ ಘಳಿಗೆಯು‌ ಪುನರಾವರ್ತಿಸಿದೆ. ನೀವು‌ ಆಯ್ಕೆಮಾಡಿರುವ‌ ಬದಲಾವಣೆಗಳು‌ ಇವುಗಳಿಗೆ‌ ಅನ್ವಯವಾಗಲಿವೆ:"
 
 #: src/utils/gcal-utils.c:961
 msgid "_Cancel"
@@ -1054,7 +1048,7 @@ msgstr "ಘಳಿಗೆ ಸೇರಿಸು…"
 
 #: src/weather/gcal-weather-settings.ui:30
 msgid "Show Weather"
-msgstr "ಹವಮಾನ ತೋರು"
+msgstr "ಹವಾಮಾನ ತೋರು"
 
 #: src/weather/gcal-weather-settings.ui:53
 msgid "Automatic Location"
