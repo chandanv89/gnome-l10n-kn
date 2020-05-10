@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/geary/issues\n"
 "POT-Creation-Date: 2020-04-24 05:52+0000\n"
-"PO-Revision-Date: 2020-04-27 18:41+0100\n"
+"PO-Revision-Date: 2020-05-09 16:27+0100\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -55,16 +55,15 @@ msgstr "ಗೇರಿ ಅಭಿವೃದ್ಧಿ ತಂಡ"
 
 #: desktop/org.gnome.Geary.appdata.xml.in.in:18
 msgid ""
-"Geary is an email application built around conversations, for the GNOME 3 desktop. It allows you to read, "
-"find and send email with a straightforward, modern interface."
+"Geary is an email application built around conversations, for the GNOME 3 desktop. It allows you to read, find "
+"and send email with a straightforward, modern interface."
 msgstr ""
-"ಗೇರಿ ಗ್ನೋಮ್ 3 ಡೆಸ್ಕ್‌ಟಾಪ್‌ಗಾಗಿ ಅಭಿವೃದ್ಧಿ ಪಡಿಸಿದಂತಹ ಒಂದು ಇಮೇಲ್ ಅಪ್ಲಿಕೇಶನ್ ಆಗಿದೆ. ಇದು ತನ್ನ ಸುಲಭ ಮತ್ತು ಆಧುನಿಕ "
-"ವಿನ್ಯಾಸದೊಂದಿಗೆ ನಿಮ್ಮ ಇಮೇಲ್ ಅನ್ನು ಓದಲು, ಹುಡುಕಲು ಮತ್ತು ರವಾನಿಸಲು ಅನುವುಮಾಡಿಕೊಡುತ್ತದೆ."
+"ಗೇರಿ ಗ್ನೋಮ್ 3 ಡೆಸ್ಕ್‌ಟಾಪ್‌ಗಾಗಿ ಅಭಿವೃದ್ಧಿ ಪಡಿಸಿದಂತಹ ಒಂದು ಇಮೇಲ್ ಅಪ್ಲಿಕೇಶನ್ ಆಗಿದೆ. ಇದು ತನ್ನ ಸುಲಭ ಮತ್ತು ಆಧುನಿಕ ವಿನ್ಯಾಸದೊಂದಿಗೆ ನಿಮ್ಮ "
+"ಇಮೇಲ್ ಅನ್ನು ಓದಲು, ಹುಡುಕಲು ಮತ್ತು ರವಾನಿಸಲು ಅನುವುಮಾಡಿಕೊಡುತ್ತದೆ."
 
 #: desktop/org.gnome.Geary.appdata.xml.in.in:23
 msgid ""
-"Conversations allow you to read a complete discussion without having to find and click from message to "
-"message."
+"Conversations allow you to read a complete discussion without having to find and click from message to message."
 msgstr "ನಿಮ್ಮ ಚರ್ಚೆಗಳನ್ನು ಸಂದೇಶದಿಂದ ಸಂದೇಶಕ್ಕೆ ಹುಡುಕಾಡದಂತೆ ಸರಾಗವಾಗಿ ಓದಲು ಸಂಭಾಷಣೆಗಳು ಅನುವುಮಾಡಿಕೊಡುತ್ತವೆ."
 
 #: desktop/org.gnome.Geary.appdata.xml.in.in:27
@@ -176,15 +175,15 @@ msgstr ""
 
 #: desktop/org.gnome.Geary.gschema.xml:50
 msgid "Show/hide formatting toolbar"
-msgstr ""
+msgstr "ಶೈಲಿ ಉಪಕರಣ ಪಟ್ಟಿಯನ್ನು ತೋರು/ಮರೆಮಾಚು"
 
 #: desktop/org.gnome.Geary.gschema.xml:51
 msgid "True if the formatting toolbar in the composer is shown."
-msgstr ""
+msgstr "ಶೈಲಿ ಉಪಕರಣ ಪಟ್ಟಿಯನ್ನು ಸಂಯೋಜಕದಲ್ಲಿ ಪ್ರದರ್ಶಿಸುವುದಾದರೆ ನಿಜ."
 
 #: desktop/org.gnome.Geary.gschema.xml:56
 msgid "Position of message list pane"
-msgstr ""
+msgstr "ಸಂದೇಶ ಪಟ್ಟಿಯ ಸ್ಥಾನ"
 
 #: desktop/org.gnome.Geary.gschema.xml:57
 msgid "Position of the message list Paned grabber."
@@ -211,83 +210,86 @@ msgid "Use single key shortcuts"
 msgstr "ಒಂಟಿ ಕೀಲಿ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳನ್ನು ಬಳಸು"
 
 #: desktop/org.gnome.Geary.gschema.xml:75
-msgid ""
-"Enables shortcuts for email actions that do not require pressing <Ctrl> to emulate those used by Gmail."
+msgid "Enables shortcuts for email actions that do not require pressing <Ctrl> to emulate those used by Gmail."
 msgstr "ಜೀಮೇಲ್‌ನಿಂದ ಬಳಸಲ್ಪಡುವ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳಂತೆ <Ctrl> ಕೀಲಿ ಬಳಸದೇ ಅನುಕರಿಸಬಹುದಾದ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸುತ್ತದೆ."
 
 #: desktop/org.gnome.Geary.gschema.xml:82
 msgid "Languages that shall be used in the spell checker"
-msgstr ""
+msgstr "ಕಾಗುಣಿತ ಪರಿಶೀಲನೆಯಲ್ಲಿ ಬಳಸಬೇಕಾಗಿರುವ ಭಾಷೆಗಳು"
 
 #: desktop/org.gnome.Geary.gschema.xml:83
 msgid ""
-"A list of POSIX locales, with the empty list disabling spell checking and the null list using desktop "
-"languages by default."
+"A list of POSIX locales, with the empty list disabling spell checking and the null list using desktop languages "
+"by default."
 msgstr ""
+"ಪೋಸಿಕ್ಸ್ (POSIX) ಪ್ರದೇಶಗಳ ಪಟ್ಟಿ, ಖಾಲಿ ಪಟ್ಟಿಯಾದರೆ ಕಾಗುಣಿತ ಪರಿಶೀಲನೆಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ ಮತ್ತು ಅಸ್ತಿತ್ವದಲ್ಲಿರದ ಪಟ್ಟಿಯಾದರೆ "
+"ದತ್ತವಾಗಿ ಡೆಸ್ಕ್‌ಟಾಪ್ ಭಾಷೆಗಳನ್ನು ಬಳಸು."
 
 #: desktop/org.gnome.Geary.gschema.xml:90
 msgid "Languages that are displayed in the spell checker popover"
-msgstr ""
+msgstr "ಕಾಗುಣಿತ ಪರಿಶೀಲಕದಲ್ಲಿ ಪ್ರದರ್ಶಿಸುವ ಭಾಷೆಗಳು"
 
 #: desktop/org.gnome.Geary.gschema.xml:91
 msgid "List of languages that are always displayed in the popover of the spell checker."
-msgstr ""
+msgstr "ಕಾಗುಣಿತ ಪರಿಶೀಲಕದಲ್ಲಿ ಸದಾ ಪ್ರದರ್ಶಿಸಲಿರುವ ಭಾಷೆಗಳು."
 
 #: desktop/org.gnome.Geary.gschema.xml:96
 msgid "Notify of new mail at startup"
-msgstr ""
+msgstr "ಪ್ರಾರಂಭದಲ್ಲಿ ಹೊಸ ಇಮೇಲ್‌ಗಳನ್ನು ಘೋಷಿಸು"
 
 #: desktop/org.gnome.Geary.gschema.xml:97
 msgid "True to notify of new mail at startup."
-msgstr ""
+msgstr "ಪ್ರಾರಂಭದಲ್ಲಿ ಹೊಸ ಇಮೇಲ್‌ಗಳನ್ನು ಘೋಷಿಸುವುದಾದರೆ ನಿಜವೆಂದು."
 
 #: desktop/org.gnome.Geary.gschema.xml:102
 msgid "Ask when opening an attachment"
-msgstr ""
+msgstr "ಲಗತ್ತುಗಳನ್ನು ತೆರೆಯುವಾಗ ಪ್ರಶ್ನಿಸು"
 
 #: desktop/org.gnome.Geary.gschema.xml:103
 msgid "True to ask when opening an attachment."
-msgstr ""
+msgstr "ಲಗತ್ತುಗಳನ್ನು ತೆರೆಯುವಾಗ ಪ್ರಶ್ನಿಸುವುದಾದರೆ ನಿಜವೆಂದು."
 
 #: desktop/org.gnome.Geary.gschema.xml:108
 msgid "Whether to compose emails in HTML"
-msgstr ""
+msgstr "HTMLನಲ್ಲಿ ಸಂದೇಶಗಳನ್ನು ಸಂಯೋಜಿಸುವುದಾ"
 
 #: desktop/org.gnome.Geary.gschema.xml:109
 msgid "True to compose emails in HTML; false for plain text."
-msgstr ""
+msgstr "HTMLನಲ್ಲಿ ಸಂದೇಶಗಳನ್ನು ಸಂಯೋಜಿಸುವುದಾದರೆ ನಿಜವೆಂದೂ; ಇಲ್ಲವಾದರೆ ಸಾದಾಪಠ್ಯ."
 
 #: desktop/org.gnome.Geary.gschema.xml:114
 msgid "Advisory strategy for full-text searching"
-msgstr ""
+msgstr "ಪೂರ್ಣಪಠ್ಯದ ಹುಡುಕಾಟಕ್ಕೆ ಸಲಹಾ ತಂತ್ರ"
 
+# Should we need to translate the acceptable values to Kannada or use them as they are?
 #: desktop/org.gnome.Geary.gschema.xml:115
+#, fuzzy
 msgid "Acceptable values are “exact”, “conservative”, “aggressive”, and “horizon”."
-msgstr ""
+msgstr "ಸ್ವೀಕಾರಾರ್ಹ ಮೌಲ್ಯಗಳು \"exact\",‌ \"conservative\", \"aggressive\", ಮತ್ತು \"horizon\"."
 
 #: desktop/org.gnome.Geary.gschema.xml:120
 msgid "Zoom of conversation viewer"
-msgstr ""
+msgstr "ಸಂಭಾಷಣಾ ದರ್ಶಕದ ಗಾತ್ರ"
 
 #: desktop/org.gnome.Geary.gschema.xml:121
 msgid "The zoom to apply on the conservation view."
-msgstr ""
+msgstr "ಸಂಭಾಷಣಾ ನೋಟದ ಮೇಲೆ ಅನ್ವಯಿಸಬೇಕಿರುವ ಗಾತ್ರ"
 
 #: desktop/org.gnome.Geary.gschema.xml:126
 msgid "Size of detached composer window"
-msgstr ""
+msgstr "ಬೇರ್ಪಡಿಸಿದ ಸಂಯೋಜಕ ವಿಂಡೋದ ಗಾತ್ರ"
 
 #: desktop/org.gnome.Geary.gschema.xml:127
 msgid "The last recorded size of the detached composer window."
-msgstr ""
+msgstr "ಬೇರ್ಪಡಿಸಿದ ಸಂಯೋಜಕ ವಿಂಡೋದ ಹಿಂದಿನ ಗಾತ್ರ."
 
 #: desktop/org.gnome.Geary.gschema.xml:132
 msgid "Undo sending email delay"
-msgstr ""
+msgstr "ಇಮೇಲ್ ರವಾನಿಸುವ ತಡೆಯಿಂದ ಹಿನ್ನೆಡೆ"
 
 #: desktop/org.gnome.Geary.gschema.xml:133
 msgid "The number of seconds to wait before sending an email. Set to zero or less to disable."
-msgstr ""
+msgstr "ಒಂದು ಇಮೇಲನ್ನು ರವಾನಿಸುವ ಮುನ್ನ ಕಾಯಬೇಕಿರುವ ಸೆಕೆಂಡುಗಳು. ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲು ಸೊನ್ನೆ ಅಥವಾ ಕಡಿಮೆ ಸಂಖ್ಯೆ ನಮೂದಿಸಿ."
 
 #: desktop/org.gnome.Geary.gschema.xml:139
 msgid "Brief notification display time"
@@ -318,39 +320,35 @@ msgstr ""
 #. untrusted TLS certificate
 #: src/client/accounts/accounts-editor.vala:210
 msgid "Failed to store certificate"
-msgstr ""
+msgstr "ಪ್ರಮಾಣಪತ್ರವನ್ನು ಶೇಖರಿಸಲು ವಿಫಲವಾಗಿದೆ"
 
 #. Translators: Label for adding an email account
 #. account for a generic IMAP service provider.
 #: src/client/accounts/accounts-editor-add-pane.vala:108
 msgid "All others"
-msgstr ""
+msgstr "ಇತರೆ"
 
 #. Translators: In-app notification label
-#: src/client/accounts/accounts-editor-add-pane.vala:195
-#: src/client/accounts/accounts-editor-servers-pane.vala:316
+#: src/client/accounts/accounts-editor-add-pane.vala:195 src/client/accounts/accounts-editor-servers-pane.vala:316
 msgid "Check your receiving login and password"
-msgstr ""
+msgstr "ನಿಮ್ಮ ಒಳಬರುವ ಬಳಕೆದಾರರ ಹೆಸರು ಮತ್ತು ಗುಪ್ತಪದಗಳನ್ನು ಪರಿಶೀಲಿಸಿ"
 
 #. Translators: In-app notification label
-#: src/client/accounts/accounts-editor-add-pane.vala:210
-#: src/client/accounts/accounts-editor-servers-pane.vala:329
+#: src/client/accounts/accounts-editor-add-pane.vala:210 src/client/accounts/accounts-editor-servers-pane.vala:329
 msgid "Check your receiving server details"
-msgstr ""
+msgstr "ನಿಮ್ಮ ಒಳಬರುವ ಸರ್ವರ್ ವಿವರಗಳನ್ನು ಪರಿಶೀಲಿಸಿ"
 
 #. Translators: In-app notification label
 #. There was an SMTP auth error, but IMAP already
 #. succeeded, so the user probably needs to
 #. specify custom creds here
 #. Translators: In-app notification label
-#: src/client/accounts/accounts-editor-add-pane.vala:232
-#: src/client/accounts/accounts-editor-servers-pane.vala:350
+#: src/client/accounts/accounts-editor-add-pane.vala:232 src/client/accounts/accounts-editor-servers-pane.vala:350
 msgid "Check your sending login and password"
 msgstr ""
 
 #. Translators: In-app notification label
-#: src/client/accounts/accounts-editor-add-pane.vala:246
-#: src/client/accounts/accounts-editor-servers-pane.vala:363
+#: src/client/accounts/accounts-editor-add-pane.vala:246 src/client/accounts/accounts-editor-servers-pane.vala:363
 msgid "Check your sending server details"
 msgstr ""
 
@@ -386,8 +384,7 @@ msgstr ""
 #. Translators: Label used for the address part of an
 #. email address when editing a user's sender address
 #. preferences for an account.
-#: src/client/accounts/accounts-editor-add-pane.vala:575
-#: src/client/accounts/accounts-editor-edit-pane.vala:513
+#: src/client/accounts/accounts-editor-add-pane.vala:575 src/client/accounts/accounts-editor-edit-pane.vala:513
 msgid "Email address"
 msgstr ""
 
@@ -396,8 +393,7 @@ msgstr ""
 #. Translators: This is used as a placeholder for the
 #. address part of an email address when editing a user's
 #. sender address preferences for an account.
-#: src/client/accounts/accounts-editor-add-pane.vala:579
-#: src/client/accounts/accounts-editor-edit-pane.vala:479
+#: src/client/accounts/accounts-editor-add-pane.vala:579 src/client/accounts/accounts-editor-edit-pane.vala:479
 msgid "person@example.com"
 msgstr ""
 
@@ -405,15 +401,14 @@ msgstr ""
 #. when adding an account
 #. Translators: Label for the user's login name for an
 #. IMAP, SMTP, etc service
-#: src/client/accounts/accounts-editor-add-pane.vala:593
-#: src/client/accounts/accounts-editor-servers-pane.vala:884
+#: src/client/accounts/accounts-editor-add-pane.vala:593 src/client/accounts/accounts-editor-servers-pane.vala:884
 msgid "Login name"
 msgstr ""
 
 #. Translators: Label for the user's password for an IMAP,
 #. SMTP, etc service
-#: src/client/accounts/accounts-editor-add-pane.vala:607
-#: src/client/accounts/accounts-editor-servers-pane.vala:1006 ui/password-dialog.glade:108
+#: src/client/accounts/accounts-editor-add-pane.vala:607 src/client/accounts/accounts-editor-servers-pane.vala:1006
+#: ui/password-dialog.glade:108
 msgid "Password"
 msgstr ""
 
@@ -421,8 +416,7 @@ msgstr ""
 #. adding an account.
 #. Translators: This label describes the host name or IP
 #. address and port used by an account's IMAP service.
-#: src/client/accounts/accounts-editor-add-pane.vala:629
-#: src/client/accounts/accounts-editor-servers-pane.vala:728
+#: src/client/accounts/accounts-editor-add-pane.vala:629 src/client/accounts/accounts-editor-servers-pane.vala:728
 msgid "IMAP server"
 msgstr ""
 
@@ -436,8 +430,7 @@ msgstr ""
 #. adding an account.
 #. Translators: This label describes the host name or IP
 #. address and port used by an account's SMTP service.
-#: src/client/accounts/accounts-editor-add-pane.vala:638
-#: src/client/accounts/accounts-editor-servers-pane.vala:734
+#: src/client/accounts/accounts-editor-add-pane.vala:638 src/client/accounts/accounts-editor-servers-pane.vala:734
 msgid "SMTP server"
 msgstr ""
 
@@ -580,28 +573,26 @@ msgid_plural "%d days back"
 msgstr[0] ""
 msgstr[1] ""
 
-#: src/client/accounts/accounts-editor-list-pane.vala:255
-#: src/client/application/application-main-window.vala:2027
+#: src/client/accounts/accounts-editor-list-pane.vala:255 src/client/application/application-main-window.vala:2027
 msgid "Undo"
 msgstr ""
 
-#: src/client/accounts/accounts-editor-list-pane.vala:264
-#: src/client/application/application-main-window.vala:2010
+#: src/client/accounts/accounts-editor-list-pane.vala:264 src/client/application/application-main-window.vala:2010
 msgid "Redo"
 msgstr ""
 
-#: src/client/accounts/accounts-editor-list-pane.vala:358
-#: src/client/accounts/accounts-editor-list-pane.vala:446 src/client/accounts/accounts-editor-row.vala:279
+#: src/client/accounts/accounts-editor-list-pane.vala:358 src/client/accounts/accounts-editor-list-pane.vala:446
+#: src/client/accounts/accounts-editor-row.vala:279
 msgid "Gmail"
 msgstr ""
 
-#: src/client/accounts/accounts-editor-list-pane.vala:362
-#: src/client/accounts/accounts-editor-list-pane.vala:450 src/client/accounts/accounts-editor-row.vala:283
+#: src/client/accounts/accounts-editor-list-pane.vala:362 src/client/accounts/accounts-editor-list-pane.vala:450
+#: src/client/accounts/accounts-editor-row.vala:283
 msgid "Outlook.com"
 msgstr ""
 
-#: src/client/accounts/accounts-editor-list-pane.vala:366
-#: src/client/accounts/accounts-editor-list-pane.vala:454 src/client/accounts/accounts-editor-row.vala:287
+#: src/client/accounts/accounts-editor-list-pane.vala:366 src/client/accounts/accounts-editor-list-pane.vala:454
+#: src/client/accounts/accounts-editor-row.vala:287
 msgid "Yahoo"
 msgstr ""
 
@@ -888,8 +879,7 @@ msgstr ""
 
 #. Translators: This is the file type displayed for
 #. attachments with unknown file types.
-#: src/client/application/application-client.vala:288
-#: src/client/components/components-attachment-pane.vala:91
+#: src/client/application/application-client.vala:288 src/client/components/components-attachment-pane.vala:91
 msgid "Unknown"
 msgstr ""
 
@@ -961,8 +951,7 @@ msgstr[1] ""
 #. / Translators: Label for in-app
 #. / notification. String substitution is the name
 #. / of the destination folder.
-#: src/client/application/application-controller.vala:620
-#: src/client/application/application-controller.vala:704
+#: src/client/application/application-controller.vala:620 src/client/application/application-controller.vala:704
 #, c-format
 msgid "Conversation moved to %s"
 msgid_plural "Conversations moved to %s"
@@ -974,8 +963,7 @@ msgstr[1] ""
 #. / of the source folder.
 #. / Translators: Label for in-app notification. String
 #. / substitution is the name of the destination folder.
-#: src/client/application/application-controller.vala:628
-#: src/client/application/application-controller.vala:650
+#: src/client/application/application-controller.vala:628 src/client/application/application-controller.vala:650
 #, c-format
 msgid "Conversation restored to %s"
 msgid_plural "Conversations restored to %s"
@@ -1043,15 +1031,15 @@ msgstr ""
 #: src/client/application/application-controller.vala:1306
 #, c-format
 msgid ""
-"There was an error opening the local mail database for this account. This is possibly due to corruption of "
-"the database file in this directory:\n"
+"There was an error opening the local mail database for this account. This is possibly due to corruption of the "
+"database file in this directory:\n"
 "\n"
 "%s\n"
 "\n"
 "Geary can rebuild the database and re-synchronize with the server or exit.\n"
 "\n"
-"Rebuilding the database will destroy all local email and its attachments. <b>The mail on the your server "
-"will not be affected.</b>"
+"Rebuilding the database will destroy all local email and its attachments. <b>The mail on the your server will not "
+"be affected.</b>"
 msgstr ""
 
 #: src/client/application/application-controller.vala:1308
@@ -1097,8 +1085,7 @@ msgid "Email to %s saved"
 msgstr ""
 
 #. / Translators: A label for an in-app notification.
-#: src/client/application/application-controller.vala:2527
-#: src/client/application/application-controller.vala:2585
+#: src/client/application/application-controller.vala:2527 src/client/application/application-controller.vala:2585
 msgid "Composer could not be restored"
 msgstr ""
 
@@ -1191,8 +1178,7 @@ msgid_plural "Do you want to permanently delete these conversations?"
 msgstr[0] ""
 msgstr[1] ""
 
-#: src/client/application/application-main-window.vala:1326
-#: src/client/application/application-main-window.vala:1341
+#: src/client/application/application-main-window.vala:1326 src/client/application/application-main-window.vala:1341
 msgid "Delete"
 msgstr ""
 
@@ -1236,16 +1222,14 @@ msgstr ""
 
 #. / Translators: Title for Inspector logs pane
 #. / Translators: Title for problem report dialog logs pane
-#: src/client/components/components-inspector.vala:93
-#: src/client/dialogs/dialogs-problem-details-dialog.vala:102
+#: src/client/components/components-inspector.vala:93 src/client/dialogs/dialogs-problem-details-dialog.vala:102
 msgid "Logs"
 msgstr ""
 
 #. / Translators: Title for Inspector system system information pane
 #. / Translators: Title for problem report system information
 #. / pane
-#: src/client/components/components-inspector.vala:97
-#: src/client/dialogs/dialogs-problem-details-dialog.vala:105
+#: src/client/components/components-inspector.vala:97 src/client/dialogs/dialogs-problem-details-dialog.vala:105
 msgid "System"
 msgstr ""
 
@@ -1256,8 +1240,8 @@ msgstr ""
 msgid "Save As"
 msgstr ""
 
-#: src/client/components/components-inspector.vala:230
-#: src/client/dialogs/dialogs-problem-details-dialog.vala:225 ui/accounts_editor_servers_pane.ui:17
+#: src/client/components/components-inspector.vala:230 src/client/dialogs/dialogs-problem-details-dialog.vala:225
+#: ui/accounts_editor_servers_pane.ui:17
 msgid "Cancel"
 msgstr ""
 
@@ -1375,8 +1359,8 @@ msgid "_Retry"
 msgstr ""
 
 #. / Translators: Search entry placeholder text
-#: src/client/components/components-search-bar.vala:12
-#: src/client/folder-list/folder-list-search-branch.vala:53 src/client/util/util-i18n.vala:298
+#: src/client/components/components-search-bar.vala:12 src/client/folder-list/folder-list-search-branch.vala:53
+#: src/client/util/util-i18n.vala:298
 msgid "Search"
 msgstr ""
 
@@ -1387,8 +1371,7 @@ msgstr ""
 
 #. / Translators: Search entry placeholder, string
 #. / replacement is the name of an account
-#: src/client/components/components-search-bar.vala:81
-#: src/client/folder-list/folder-list-search-branch.vala:54
+#: src/client/components/components-search-bar.vala:81 src/client/folder-list/folder-list-search-branch.vala:54
 #, c-format
 msgid "Search %s account"
 msgstr ""
@@ -1568,8 +1551,7 @@ msgstr ""
 #. locale and English versions included automatically.
 #: src/client/composer/composer-widget.vala:254
 msgid ""
-"attach|attaching|attaches|attachment|attachments|attached|enclose|enclosed|enclosing|encloses|enclosure|"
-"enclosures"
+"attach|attaching|attaches|attachment|attachments|attached|enclose|enclosed|enclosing|encloses|enclosure|enclosures"
 msgstr ""
 
 #. Translators: This dialog text is displayed to the
@@ -1892,8 +1874,7 @@ msgid "Selecting “Don’t Trust This Server” will cause Geary to stop access
 msgstr ""
 
 #: src/client/dialogs/certificate-warning-dialog.vala:69
-msgid ""
-"Contact your system administrator or email service provider if you have any question about these issues."
+msgid "Contact your system administrator or email service provider if you have any question about these issues."
 msgstr ""
 
 #: src/client/dialogs/certificate-warning-dialog.vala:76
@@ -2658,8 +2639,8 @@ msgstr ""
 
 #: ui/accounts_editor_remove_pane.ui:91
 msgid ""
-"Removing an account will remove it from Geary and delete locally cached email data from your computer, but "
-"not from your service provider."
+"Removing an account will remove it from Geary and delete locally cached email data from your computer, but not "
+"from your service provider."
 msgstr ""
 
 #: ui/accounts_editor_remove_pane.ui:122
@@ -2945,9 +2926,9 @@ msgstr ""
 
 #: ui/components-inspector-error-view.ui:33
 msgid ""
-"If the problem is serious or persists, please save and send these details to the <a href=\"https://wiki."
-"gnome.org/Apps/Geary/Contact\">mailing list</a> or attach to a <a href=\"https://wiki.gnome.org/Apps/Geary/"
-"ReportingABug\">new bug report</a>."
+"If the problem is serious or persists, please save and send these details to the <a href=\"https://wiki.gnome.org/"
+"Apps/Geary/Contact\">mailing list</a> or attach to a <a href=\"https://wiki.gnome.org/Apps/Geary/ReportingABug"
+"\">new bug report</a>."
 msgstr ""
 
 #: ui/components-inspector-error-view.ui:49

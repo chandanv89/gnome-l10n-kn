@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: locations.HEAD.kn\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-28 12:53+0000\n"
-"PO-Revision-Date: 2020-05-07 01:15+0100\n"
+"PO-Revision-Date: 2020-05-10 23:21+0100\n"
 "Last-Translator: Chandan Veerabhadrappa <chandanv89@gmail.com>\n"
 "Language-Team: Kannada <kde-i18n-doc@kde.org>\n"
 "Language: kn\n"
@@ -5629,7 +5629,7 @@ msgstr "ಕಾನ್ಸೆಪ್ಶಿಯಾನ್"
 
 #. A city in Chile
 msgid "Curico"
-msgstr ""
+msgstr "ಕುರೀಕೊ"
 
 #. A city in Chile
 msgid "Hanga Roa"
@@ -9135,12 +9135,12 @@ msgstr "ಅಕಾಪುಲ್ಕೊ"
 #. A city in Aguascalientes in Mexico
 msgctxt "City in Aguascalientes, Mexico"
 msgid "Aguascalientes"
-msgstr "ಅಗ್ವಾಸ್‍ಕಲ್ಯಂಟಸ್"
+msgstr "ಆಗ್ವಾಸ್‌ಕಾಲಿಯೆಂತೆಸ್"
 
 #. A city in Campeche in Mexico
 msgctxt "City in Campeche, Mexico"
 msgid "Campeche"
-msgstr "ಕ್ಯಾಂಪೀಚ್"
+msgstr "ಕಂಪೆಚೆ"
 
 #. A city in Quintana Roo in Mexico
 msgid "Cancún"
@@ -9167,15 +9167,15 @@ msgstr "ಚೆವಾವ"
 #. One of several cities in Mexico called "Juárez".
 #.
 msgid "Ciudad Juárez"
-msgstr "ಸಿಯುಡಾಡ್ ಜಾರೆಝ್"
+msgstr "ಸಿಯುದಾದ್ ಹುವಾರೆಜ಼್‌"
 
 #. A city in Sonora in Mexico
 msgid "Ciudad Obregón"
-msgstr "ಸಿಯುಡಾಡ್ ಓಬ್ರಗಾನ್"
+msgstr "ಸಿಯುದಾದ್ ಓಬ್ರಗಾನ್"
 
 #. A city in Tamaulipas in Mexico
 msgid "Ciudad Victoria"
-msgstr "ಸಿಯುಡಾಡ್ ವಿಕ್ಟೋರಿಯಾ"
+msgstr "ಸಿಯುದಾದ್ ವಿಕ್ಟೋರಿಯಾ"
 
 #. A city in Colima in Mexico
 msgctxt "City in Colima, Mexico"
@@ -9188,16 +9188,16 @@ msgstr "ಕಾಝುಮಲ್"
 
 #. A city in Morelos in Mexico
 msgid "Cuernavaca"
-msgstr "ಕ್ವಾರ್ನಾವಾಕಾ"
+msgstr "ಕುಯೆರ್ನವಾಕಾ"
 
 #. A city in Sinaloa in Mexico
 msgid "Culiacán"
-msgstr "ಕಲಿಯಾಕನ್"
+msgstr "ಕುಲಿಯಾಕನ್"
 
 #. A city in Durango in Mexico
 msgctxt "City in Durango, Mexico"
 msgid "Durango"
-msgstr "ಡರಾಂಗೊ"
+msgstr "ದುರಾಂಗೋ"
 
 #. A city in Oaxaca in Mexico
 msgid "El Zapote"
@@ -10454,7 +10454,7 @@ msgstr "Nizhnevartovsk"
 #. The local name in Russian is "Нижний Новгород".
 #.
 msgid "Nizhny Novgorod"
-msgstr ""
+msgstr "ನಿಷ್ನಿ ನೋವ್‌ಗರೋದ್"
 
 #. A city in Russia.
 #. The local name in Russian is "Новокузнецк".
@@ -10489,10 +10489,8 @@ msgstr "ಪೆಂಝಾ"
 #. A city in Russia.
 #. The local name in Russian is "Пермь".
 #.
-#, fuzzy
-#| msgid "Perm'"
 msgid "Perm"
-msgstr "ಪರ್ಮ್'"
+msgstr "ಪರ್ಮ್"
 
 #. A city in Russia.
 #. The local name in Russian is "Петропавловск-Камчатский".
@@ -10507,10 +10505,8 @@ msgid "Rostov"
 msgstr "ರೋಸ್ಟಾಕ್"
 
 #. A city in Russia
-#, fuzzy
-#| msgid "Chelyabinsk"
 msgid "Rybinsk"
-msgstr "ಚೆಲ್ಯಾಬಿನ್‍ಸ್ಕ್"
+msgstr "ರಿಬಿನ್ಸ್ಕ್"
 
 #. A city in Russia.
 #. "Saint Petersburg" is the traditional English name.
@@ -10552,7 +10548,7 @@ msgstr "ಟಿಕ್ಸಿ"
 
 #. A city in Russia
 msgid "Tomsk"
-msgstr ""
+msgstr "ತೊಮ್ಸ್ಕ್"
 
 #. A city in Russia
 msgid "Tyumen"
@@ -10596,7 +10592,7 @@ msgstr "ಯಾಕುಟಸ್ಕ್‌"
 
 #. A city in Russia
 msgid "Yaroslavl"
-msgstr ""
+msgstr "ಯಾರೊಸ್ಲಾವ್ಲ್"
 
 #. A city in Russia
 msgid "Yekaterinburg"
@@ -10605,10 +10601,8 @@ msgstr "ಎಕಾಟರಿನ್‍ಬರ್ಗ್"
 #. A city in Russia.
 #. The local name in Russian is "Йошкар-Ола".
 #.
-#, fuzzy
-#| msgid "Yoshinaga"
 msgid "Yoshkar-Ola"
-msgstr "ಯೋಶಿನಾಗ"
+msgstr "ಯೋಷ್ಕರ್-ಓಲಾ"
 
 #. A city in Russia
 msgid "Yuzhno-Sakhalinsk"
@@ -10889,10 +10883,8 @@ msgid "Poprad"
 msgstr "ಪೋಪ್ರಾಡ್"
 
 #. A city in Slovakia
-#, fuzzy
-#| msgid "Holešov"
 msgid "Prešov"
-msgstr "ಹೋಲ್ಸೊವ್"
+msgstr "ಪ್ರೆಶೋವ್"
 
 #. A city in Slovakia
 msgid "Prievidza"
@@ -10903,10 +10895,8 @@ msgid "Sliač"
 msgstr "ಸ್ಲಿಯಾಕ್"
 
 #. A city in Slovakia
-#, fuzzy
-#| msgid "Jilin"
 msgid "Žilina"
-msgstr "ಜಿಲಿನ್"
+msgstr "ಶಿಲಿನಾ"
 
 #. The capital of Slovenia
 msgid "Ljubljana"
@@ -11023,7 +11013,7 @@ msgstr "ಅಲ್ಕಾಂಟರಿಲಾ"
 
 #. A city in Spain
 msgid "Alcorcón"
-msgstr ""
+msgstr "ಅಲ್‌ಕೊರ್ಕೋನ್"
 
 #. A city in Spain
 msgid "Alicante"
@@ -11421,10 +11411,8 @@ msgid "Grenchen"
 msgstr "ಗ್ರೆಂಚೆನ್"
 
 #. A city in Switzerland
-#, fuzzy
-#| msgid "Pusan"
 msgid "Lausanne"
-msgstr "ಪುಸಾನ್"
+msgstr "ಲೊಸಾನ್"
 
 #. A city in Switzerland
 msgid "Lugano"
@@ -11858,7 +11846,7 @@ msgstr "ಬಾರಿಸ್ಪಿಲ್'"
 #. A city in Ukraine:
 #. https://en.wikipedia.org/wiki/Chernivtsi
 msgid "Chernivtsi"
-msgstr ""
+msgstr "ಚೆರ್ನಿವ್ತ್ಸಿ"
 
 #. A city in Ukraine
 msgid "Dnipropetrovs'k"
@@ -11889,7 +11877,7 @@ msgstr "ಕ್ರಾವಿ ರಿ"
 #. Ukrainian is "Київ", which transliterates to "Kyiv".
 #.
 msgid "Kyiv"
-msgstr ""
+msgstr "ಕಿಯೇವ್"
 
 #. A city in Ukraine
 msgid "L'viv"
@@ -12003,7 +11991,7 @@ msgstr "ಬಾರ್ನ್ಮೌತ್"
 #. Kingdom
 #.
 msgid "Brighton"
-msgstr ""
+msgstr "ಬ್ರೈಟನ್"
 
 #. A city in South and South West England in the United
 #. Kingdom
@@ -12144,7 +12132,7 @@ msgstr "ಇನ್ವರ್ನೆಸ್"
 #. Kingdom
 #.
 msgid "Ipswich"
-msgstr ""
+msgstr "ಇಪ್ಸ್‌ವಿಚ್"
 
 #. A city in Scotland in the United Kingdom
 msgid "Kilmoluag"
@@ -12276,12 +12264,9 @@ msgstr "ನಾರ್ವಿಚ್"
 msgid "Odiham"
 msgstr "ಒದಿಹಾಮ್"
 
-#, fuzzy
-#| msgctxt "City in Connecticut, United States"
-#| msgid "Oxford"
 msgctxt "City in East and South East England, United Kingdom"
 msgid "Oxford"
-msgstr "ಆಕ್ಸ್ಫರ್ಡ್"
+msgstr "ಆಕ್ಸ್‌ಫರ್ಡ್"
 
 #. A city in Wales in the United Kingdom
 msgid "Pembrey"
@@ -13100,11 +13085,9 @@ msgstr "ಬಾಸ್ಕೋಬೆಲ್"
 msgid "Boston"
 msgstr "ಬೋಸ್ಟನ್"
 
-#, fuzzy
-#| msgid "Box Elder"
 msgctxt "City in Colorado, United States"
 msgid "Boulder"
-msgstr "ಬಾಕ್ಸ್‌ ಎಲ್ಡರ್"
+msgstr "ಬೌಲ್ಡರ್"
 
 #. A city in Kentucky in the United States
 msgid "Bowling Green"
@@ -18146,7 +18129,7 @@ msgstr "ಸಿಯೆರಾ ವಿಸ್ಟಾ"
 
 #. A city in Arkansas in the United States
 msgid "Siloam Springs"
-msgstr "ಸಿಲೋಆಮ್ ಸ್ಪ್ರಿಂಗ್ಸ್‍"
+msgstr "ಸಿಲೋಮ್ ಸ್ಪ್ರಿಂಗ್ಸ್‌"
 
 #. A city in Minnesota in the United States
 msgid "Silver Bay"
@@ -18198,7 +18181,7 @@ msgstr "ಸ್ಲೈಡೆಲ್"
 
 #. A city in North Carolina in the United States
 msgid "Smithfield"
-msgstr "ಸ್ಮಿತ್‍ಫೀಲ್ಡ್‍"
+msgstr "ಸ್ಮಿತ್‍ಫೀಲ್ಡ್‌"
 
 #. A city in Tennessee in the United States
 msgid "Smyrna"
@@ -18210,7 +18193,7 @@ msgstr "ಸ್ನೈಡರ್"
 
 #. A city in Idaho in the United States
 msgid "Soda Springs"
-msgstr "ಸೋಡಾ ಸ್ಪ್ರಿಂಗ್ಸ್‍"
+msgstr "ಸೋಡಾ ಸ್ಪ್ರಿಂಗ್ಸ್‌"
 
 #. A city in Alaska in the United States
 msgid "Soldotna"
@@ -18218,11 +18201,11 @@ msgstr "ಸೊಲ್ಡೋತ್ನಾ"
 
 #. A city in Kentucky in the United States
 msgid "Somerset"
-msgstr "ಸೋಮರ್ಸೆಟ್"
+msgstr "ಸೋಮರ್‌ಸೆಟ್"
 
 #. A city in New Jersey in the United States
 msgid "Somerville"
-msgstr "ಸೋಮರ್ವಿಲ್"
+msgstr "ಸೋಮರ್‌ವಿಲ್‌"
 
 #. A city in Texas in the United States
 msgctxt "City in Texas, United States"
@@ -18235,7 +18218,7 @@ msgstr "ಸೌತ್ ಬೆಂಡ್"
 
 #. A city in Michigan in the United States
 msgid "South Haven"
-msgstr "ಸೌತ್ ಹೆವನ್"
+msgstr "ಸೌತ್ ಹೇವನ್"
 
 #. A city in Virginia in the United States
 msgid "South Hill"
@@ -18274,37 +18257,37 @@ msgstr "ಸ್ಪ್ರಿಂಗ್‍ಡೇಲ್"
 #. A city in Colorado in the United States
 msgctxt "City in Colorado, United States"
 msgid "Springfield"
-msgstr "ಸ್ಪ್ರಿಂಗ್‍ಫೀಲ್ಡ್‍"
+msgstr "ಸ್ಪ್ರಿಂಗ್‍ಫೀಲ್ಡ್"
 
 #. A city in Florida in the United States
 msgctxt "City in Florida, United States"
 msgid "Springfield"
-msgstr "ಸ್ಪ್ರಿಂಗ್‍ಫೀಲ್ಡ್‍"
+msgstr "ಸ್ಪ್ರಿಂಗ್‍ಫೀಲ್ಡ್"
 
 #. A city in Illinois in the United States
 msgctxt "City in Illinois, United States"
 msgid "Springfield"
-msgstr "ಸ್ಪ್ರಿಂಗ್‍ಫೀಲ್ಡ್‍"
+msgstr "ಸ್ಪ್ರಿಂಗ್‍ಫೀಲ್ಡ್"
 
 #. A city in Massachusetts in the United States
 msgctxt "City in Massachusetts, United States"
 msgid "Springfield"
-msgstr "ಸ್ಪ್ರಿಂಗ್‍ಫೀಲ್ಡ್‍"
+msgstr "ಸ್ಪ್ರಿಂಗ್‍ಫೀಲ್ಡ್"
 
 #. A city in Missouri in the United States
 msgctxt "City in Missouri, United States"
 msgid "Springfield"
-msgstr "ಸ್ಪ್ರಿಂಗ್‍ಫೀಲ್ಡ್‍"
+msgstr "ಸ್ಪ್ರಿಂಗ್‍ಫೀಲ್ಡ್"
 
 #. A city in Ohio in the United States
 msgctxt "City in Ohio, United States"
 msgid "Springfield"
-msgstr "ಸ್ಪ್ರಿಂಗ್‍ಫೀಲ್ಡ್‍"
+msgstr "ಸ್ಪ್ರಿಂಗ್‍ಫೀಲ್ಡ್"
 
 #. A city in Vermont in the United States
 msgctxt "City in Vermont, United States"
 msgid "Springfield"
-msgstr "ಸ್ಪ್ರಿಂಗ್‍ಫೀಲ್ಡ್‍"
+msgstr "ಸ್ಪ್ರಿಂಗ್‍ಫೀಲ್ಡ್"
 
 #. A city in Missouri in the United States
 msgid "St. Louis"
@@ -18320,7 +18303,7 @@ msgstr "ಸ್ಟಾಮ್‌ಫೋರ್ಡ್"
 
 #. A city in Washington in the United States
 msgid "Stampede"
-msgstr "ಸ್ಟಾಂಪೇಡ್"
+msgstr "ಸ್ಟಾಂಪೀಡ್"
 
 #. A city in Idaho in the United States
 msgctxt "City in Idaho, United States"
@@ -18333,7 +18316,7 @@ msgstr "ಸ್ಟಾಂಟನ್"
 
 #. A city in Minnesota in the United States
 msgid "Staples"
-msgstr "ಸ್ಟಾಪಲ್ಸ್‍"
+msgstr "ಸ್ಟೇಪಲ್ಸ್‌"
 
 #. A city in Pennsylvania in the United States
 msgid "State College"
@@ -18341,11 +18324,11 @@ msgstr "ಸ್ಟೇಟ್ ಕಾಲೇಜ್"
 
 #. A city in Georgia in the United States
 msgid "Statesboro"
-msgstr "ಸ್ಟೇಟ್ಸ್‍ಬೊರೊ"
+msgstr "ಸ್ಟೇಟ್ಸ್‌ಬರೋ"
 
 #. A city in North Carolina in the United States
 msgid "Statesville"
-msgstr "ಸ್ಟೇಟ್ಸ್‍ವಿಲ್"
+msgstr "ಸ್ಟೇಟ್ಸ್‌ವಿಲ್"
 
 #. A city in Virginia in the United States
 msgid "Staunton"
@@ -18353,7 +18336,7 @@ msgstr "ಸ್ಟಾಂಟನ್"
 
 #. A city in Colorado in the United States
 msgid "Steamboat Springs"
-msgstr "ಸ್ಟೀಮ್‌ಬೋಟ್‌ ಸ್ಪ್ರಿಂಗ್ಸ್‍"
+msgstr "ಸ್ಟೀಮ್‌ಬೋಟ್‌ ಸ್ಪ್ರಿಂಗ್ಸ್‌"
 
 #. A city in Texas in the United States
 msgctxt "City in Texas, United States"
@@ -18366,11 +18349,11 @@ msgstr "ಸ್ಟರ್ಲಿಂಗ್"
 
 #. A city in Michigan in the United States
 msgid "Sterling Heights"
-msgstr "ಸ್ಟರ್ಲಿಂಗ್ ಹೈಟ್ಸ್‍"
+msgstr "ಸ್ಟರ್ಲಿಂಗ್ ಹೈಟ್ಸ್"
 
 #. A city in Wisconsin in the United States
 msgid "Stevens Point"
-msgstr "ಸ್ಟೀವನ್ಸ್‍ ಪಾಯಿಂಟ್"
+msgstr "ಸ್ಟೀವನ್ಸ್ ಪಾಯಿಂಟ್"
 
 #. A city in Oklahoma in the United States
 msgid "Stillwater"
@@ -18400,15 +18383,15 @@ msgstr "ಸ್ಟರ್ಗಿಸ್"
 #. A city in Arkansas in the United States
 msgctxt "City in Arkansas, United States"
 msgid "Stuttgart"
-msgstr "ಸ್ಟುಟ್‌ಗರ್ಟ್"
+msgstr "ಸ್ಟುಟ್‌ಗಾರ್ಟ್"
 
 #. A city in Virginia in the United States
 msgid "Suffolk"
-msgstr "ಸಫೋಲ್ಕ್‍"
+msgstr "ಸಫೋಕ್"
 
 #. A city in Texas in the United States
 msgid "Sulphur Springs"
-msgstr "ಸಲ್ಫರ್ ಸ್ಪ್ರಿಂಗ್ಸ್‍"
+msgstr "ಸಲ್ಫರ್ ಸ್ಪ್ರಿಂಗ್ಸ್"
 
 #. A city in California in the United States
 msgid "Sunnyvale"
@@ -18420,17 +18403,17 @@ msgstr "ಸುಪೀರಿಯರ್"
 
 #. A city in New Jersey in the United States
 msgid "Sussex"
-msgstr "ಸಸೆಕ್ಸ್‍"
+msgstr "ಸಸ್ಸೆಕ್ಸ್"
 
 #. A city in Alaska in the United States
 msgctxt "City in Alaska, United States"
 msgid "Sutton"
-msgstr "ಸಟೋನ್"
+msgstr "ಸಟನ್"
 
 #. A city in West Virginia in the United States
 msgctxt "City in West Virginia, United States"
 msgid "Sutton"
-msgstr "ಸಟೋನ್"
+msgstr "ಸಟನ್"
 
 #. A city in Texas in the United States
 msgid "Sweetwater"
@@ -18442,7 +18425,7 @@ msgstr "ಸಿಲ್ವೇನಿಯಾ"
 
 #. A city in New York in the United States
 msgid "Syracuse"
-msgstr "ಸಿರಾಕ್ಯೂಸ್"
+msgstr "ಸಿರಾಕಸ್"
 
 #. A city in Washington in the United States
 msgid "Tacoma"
@@ -18454,7 +18437,7 @@ msgstr "ತಲೇಕಾಹ್"
 
 #. A city in Alaska in the United States
 msgid "Takotna"
-msgstr "ಟಲ್ಕೀಟ್ನಾ"
+msgstr "ಟಕೋಟ್ನಾ"
 
 #. A city in Alaska in the United States
 msgid "Talkeetna"
@@ -18482,7 +18465,7 @@ msgstr "ಟ್ಯಾರಿಯಾಲ್"
 
 #. A city in Illinois in the United States
 msgid "Taylorville"
-msgstr "ಟೇಯ್ಲರ್ವಿಲ್"
+msgstr "ಟೇಲರ್‌ವಿಲ್"
 
 #. A city in Nebraska in the United States
 msgid "Tekamah"
@@ -18518,7 +18501,7 @@ msgstr "ಟೆಕ್ಸಾರ್ಕನಾ"
 
 #. A city in Oregon in the United States
 msgid "The Dalles"
-msgstr "ದ ಡಾಲ್ಸ್‍"
+msgstr "ದಿ ಡಾಲಿಸ್"
 
 #. A city in Florida in the United States
 msgid "The Villages"
@@ -18530,7 +18513,7 @@ msgstr "ಥೆಡ್‍ಫೋರ್ಡ್"
 
 #. A city in Minnesota in the United States
 msgid "Thief River Falls"
-msgstr "ಥೀಫ್ ರಿವರ್ ಫಾಲ್ಸ್‍"
+msgstr "ಥೀಫ್ ರಿವರ್ ಫಾಲ್ಸ್"
 
 #. A city in Georgia in the United States
 msgid "Thomaston"
