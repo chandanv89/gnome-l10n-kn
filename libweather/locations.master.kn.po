@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: locations.HEAD.kn\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-28 12:53+0000\n"
-"PO-Revision-Date: 2020-05-10 23:21+0100\n"
+"PO-Revision-Date: 2020-05-17 12:51+0100\n"
 "Last-Translator: Chandan Veerabhadrappa <chandanv89@gmail.com>\n"
 "Language-Team: Kannada <kde-i18n-doc@kde.org>\n"
 "Language: kn\n"
@@ -3727,7 +3727,7 @@ msgstr "ಜೊಆವೊ ಪೆಸೋವ"
 
 #. A city in Minas Gerais in Brazil
 msgid "Juiz de Fora"
-msgstr "ಜುಇಸ್ ಡಿ ಫೋರಾ"
+msgstr "ಉಯಿಜ಼್‌ ದೆ ಫೋರಾ"
 
 #. A city in Paraná in Brazil
 msgid "Londrina"
@@ -3751,7 +3751,7 @@ msgstr "ಮರಾಬ"
 
 #. A city in Paraná in Brazil
 msgid "Maringá"
-msgstr "ಮರಿಯಾಂಗಾ"
+msgstr "ಮರಿಂಗಾ"
 
 #. A city in Minas Gerais in Brazil
 msgid "Montes Claros"
@@ -3796,7 +3796,7 @@ msgstr "ಪಿರಂಚಿಕಾಬ"
 
 #. A city in São Paulo in Brazil
 msgid "Piraçununga"
-msgstr "ಪಿರಾಕುಂಗಾ"
+msgstr "ಪಿರಾಸುನುಂಗಾ"
 
 #. A city in Pará in Brazil
 msgid "Piri Grande"
