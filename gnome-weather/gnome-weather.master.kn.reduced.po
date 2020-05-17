@@ -1,0 +1,370 @@
+# Kannada translation for gnome-weather.
+# Copyright (C) 2013 gnome-weather's COPYRIGHT HOLDER
+# This file is distributed under the same license as the gnome-weather package.
+#
+# , 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-weather master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-weather/issues\n"
+"POT-Creation-Date: 2020-04-03 17:53+0000\n"
+"PO-Revision-Date: 2013-12-30 16:11+0630\n"
+"Last-Translator: \n"
+"Language-Team: Kannada <kde-i18n-doc@kde.org>\n"
+"Language: kn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-DamnedLies-Scope: partial\n"
+"X-Generator: Lokalize 1.5\n"
+
+#: data/city.ui:8
+msgid "City view"
+msgstr ""
+
+#: data/city.ui:30
+msgid "Loading…"
+msgstr "ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ…"
+
+#: data/org.gnome.Weather.appdata.xml.in.in:5
+#: data/org.gnome.Weather.desktop.in.in:4 src/app/main.js:61
+#: src/app/window.js:255 src/service/main.js:48
+msgid "Weather"
+msgstr "ಹವಾಮಾನ"
+
+#: data/org.gnome.Weather.appdata.xml.in.in:6
+#: data/org.gnome.Weather.desktop.in.in:5
+msgid "Show weather conditions and forecast"
+msgstr ""
+
+#: data/org.gnome.Weather.appdata.xml.in.in:16
+msgid ""
+"A small application that allows you to monitor the current weather "
+"conditions for your city, or anywhere in the world."
+msgstr ""
+
+#: data/org.gnome.Weather.appdata.xml.in.in:20
+msgid ""
+"It provides access to detailed forecasts, up to 7 days, with hourly details "
+"for the current and next day, using various internet services."
+msgstr ""
+
+#: data/org.gnome.Weather.appdata.xml.in.in:24
+msgid ""
+"It also optionally integrates with the GNOME Shell, allowing you to see the "
+"current conditions of the most recently searched cities by just typing the "
+"name in the Activities Overview."
+msgstr ""
+
+#: data/org.gnome.Weather.appdata.xml.in.in:74
+msgid "The GNOME Project"
+msgstr ""
+
+#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#: data/org.gnome.Weather.desktop.in.in:13
+msgid "Weather;Forecast;"
+msgstr ""
+
+#: data/org.gnome.Weather.desktop.in.in:14
+msgid "Allows weather information to be displayed for your location."
+msgstr ""
+
+#: data/org.gnome.Weather.gschema.xml:14
+#, fuzzy
+#| msgid "Add locations"
+msgid "Automatic location"
+msgstr "ಸ್ಥಳಗಳನ್ನು ಸೇರಿಸಿ"
+
+#: data/places-popover.ui:45
+#, fuzzy
+#| msgid "New Location"
+msgid "Automatic Location"
+msgstr "ಹೊಸ ಸ್ಥಳ"
+
+#: data/places-popover.ui:84
+#, fuzzy
+#| msgid "Loading…"
+msgid "Locating…"
+msgstr "ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ…"
+
+#: data/places-popover.ui:141
+#, fuzzy
+#| msgid "Search for a city:"
+msgid "Search for a city"
+msgstr "ಒಂದು ಊರಿಗಾಗಿ ಹುಡುಕು:"
+
+#: data/places-popover.ui:173
+msgid "Viewed Recently"
+msgstr ""
+
+#: data/primary-menu.ui:4
+#, fuzzy
+#| msgid "Temperature unit"
+msgid "_Temperature Unit"
+msgstr "ಉಷ್ಣತೆಯ ಏಕಮಾನ"
+
+#: data/primary-menu.ui:6
+#, fuzzy
+#| msgid "Celsius"
+msgid "_Celsius"
+msgstr "ಸೆಲ್ಸಿಯಸ್"
+
+#: data/primary-menu.ui:11
+#, fuzzy
+#| msgid "Fahrenheit"
+msgid "_Fahrenheit"
+msgstr "ಫ್ಯಾರೆನ್‍ಹೀಟ್"
+
+#: data/primary-menu.ui:19
+#, fuzzy
+#| msgid "World Weather"
+msgid "_About Weather"
+msgstr "ಪ್ರಪಂಚದ ಹವಾಮಾನ"
+
+#: data/weather-widget.ui:39
+msgid "Current conditions"
+msgstr ""
+
+#: data/weather-widget.ui:185
+msgid "Today"
+msgstr "ಇಂದು"
+
+#: data/weather-widget.ui:214
+msgid "Tomorrow"
+msgstr "ನಾಳೆ"
+
+#: data/window.ui:33
+msgid "Places"
+msgstr ""
+
+#: data/window.ui:55
+msgid "Refresh"
+msgstr ""
+
+#: data/window.ui:113
+#, fuzzy
+#| msgid "Search for a city:"
+msgid "Search for a location"
+msgstr "ಒಂದು ಊರಿಗಾಗಿ ಹುಡುಕು:"
+
+#: data/window.ui:129
+msgid "To see weather information, enter the name of a city."
+msgstr ""
+
+#: src/app/forecast.js:35
+#, fuzzy
+#| msgid "Forecast for Today"
+msgid "Forecast"
+msgstr "ಇಂದಿಗಾಗಿನ ಹವಾಮಾನ ಮುನ್ಸೂಚನೆ"
+
+#: src/app/forecast.js:116
+#, fuzzy
+#| msgid "Forecast for Today"
+msgid "Forecast not available"
+msgstr "ಇಂದಿಗಾಗಿನ ಹವಾಮಾನ ಮುನ್ಸೂಚನೆ"
+
+#. Translators: this is a time format without date used for AM/PM
+#: src/app/forecast.js:132
+msgid "%l∶%M %p"
+msgstr "%l∶%M %p"
+
+#. Translators: this is a time format without date used for 24h mode
+#: src/app/forecast.js:135
+msgid "%R"
+msgstr "%R"
+
+#: src/app/weeklyForecast.js:35
+msgid "Weekly Forecast"
+msgstr ""
+
+#. Translators: this is the time format for full weekday name according to the current locale
+#: src/app/weeklyForecast.js:120
+msgid "%A"
+msgstr ""
+
+#: src/app/window.js:139
+#, fuzzy
+#| msgid "New Location"
+msgid "Select Location"
+msgstr "ಹೊಸ ಸ್ಥಳ"
+
+#: src/app/window.js:254
+msgid "translator-credits"
+msgstr ""
+"ಪ್ರಬೋಧ್ ಸಿ. ಪಿ  <prabodhcp AT gmail DOT com> ಶಂಕರ್ ಪ್ರಸಾದ್ <svenkate@redhat.com>"
+
+#: src/app/window.js:256
+msgid "A weather application"
+msgstr "ಹವಾಮಾನದ ಅನ್ವಯ"
+
+#: src/app/world.js:38
+#, fuzzy
+#| msgid "World Weather"
+msgid "World view"
+msgstr "ಪ್ರಪಂಚದ ಹವಾಮಾನ"
+
+#. TRANSLATORS: this is the temperature string, minimum and maximum.
+#. The two values are already formatted, so it would be something like
+#. "7 °C / 19 °C"
+#: src/misc/util.js:140
+#, javascript-format
+msgid "%s / %s"
+msgstr "%s / %s"
+
+#. TRANSLATORS: this is the description shown in the overview search
+#. It's the current weather conditions followed by the temperature,
+#. like "Clear sky, 14 °C"
+#: src/service/searchProvider.js:182
+#, javascript-format
+msgid "%s, %s"
+msgstr "%s, %s"
+
+#~ msgid "_New"
+#~ msgstr "ಹೊಸ (_N)"
+
+#~ msgid "About"
+#~ msgstr "ಕುರಿತು"
+
+#~ msgid "Quit"
+#~ msgstr "ನಿರ್ಗಮಿಸು"
+
+#~ msgid "Select All"
+#~ msgstr "ಎಲ್ಲವನ್ನೂ ಆರಿಸು"
+
+#~ msgid "Select None"
+#~ msgstr "ಏನನ್ನೂ ಆರಿಸಬೇಡ"
+
+#~ msgid "Click on locations to select them"
+#~ msgstr "ಸ್ಥಳಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಲು ಅವುಗಳ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ"
+
+#~ msgid "New"
+#~ msgstr "ಹೊಸ"
+
+#~ msgid "Cancel"
+#~ msgstr "ರದ್ದುಗೊಳಿಸು"
+
+#~ msgid "Delete"
+#~ msgstr "ಅಳಿಸು"
+
+#~ msgid "More…"
+#~ msgstr "ಇನ್ನಷ್ಟು …"
+
+#~ msgid "Forecast for Tomorrow"
+#~ msgstr "ನಾಳೆಗಾಗಿನ ಹವಾಮಾನ ಮುನ್ಸೂಚನೆ"
+
+#~ msgid "%B %d"
+#~ msgstr "%B %d"
+
+#~ msgid "Monday night"
+#~ msgstr "ಸೋಮವಾರ ರಾತ್ರಿ"
+
+#~ msgid "Monday morning"
+#~ msgstr "ಸೋಮವಾರ ಬೆಳಿಗ್ಗೆ"
+
+#~ msgid "Monday afternoon"
+#~ msgstr "ಸೋಮವಾರ ಮಧ್ಯಾಹ್ನ"
+
+#~ msgid "Monday evening"
+#~ msgstr "ಸೋಮವಾರ ಸಂಜೆ"
+
+#~ msgid "Tuesday night"
+#~ msgstr "ಮಂಗಳವಾರ ರಾತ್ರಿ"
+
+#~ msgid "Tuesday morning"
+#~ msgstr "ಮಂಗಳವಾರ ಬೆಳಿಗ್ಗೆ"
+
+#~ msgid "Tuesday afternoon"
+#~ msgstr "ಮಂಗಳವಾರ ಮಧ್ಯಾಹ್ನ"
+
+#~ msgid "Tuesday evening"
+#~ msgstr "ಮಂಗಳವಾರ ಸಂಜೆ"
+
+#~ msgid "Wednesday night"
+#~ msgstr "ಬುಧವಾರ ರಾತ್ರಿ"
+
+#~ msgid "Wednesday morning"
+#~ msgstr "ಬುಧವಾರ ಬೆಳಿಗ್ಗೆ"
+
+#~ msgid "Wednesday afternoon"
+#~ msgstr "ಬುಧವಾರ ಮಧ್ಯಾಹ್ನ"
+
+#~ msgid "Wednesday evening"
+#~ msgstr "ಬುಧವಾರ ಸಂಜೆ"
+
+#~ msgid "Thursday night"
+#~ msgstr "ಗುರುವಾರ ರಾತ್ರಿ"
+
+#~ msgid "Thursday morning"
+#~ msgstr "ಗುರುವಾರ ಬೆಳಿಗ್ಗೆ"
+
+#~ msgid "Thursday afternoon"
+#~ msgstr "ಗುರುವಾರ ಮಧ್ಯಾಹ್ನ"
+
+#~ msgid "Thursday evening"
+#~ msgstr "ಗುರುವಾರ ಸಂಜೆ"
+
+#~ msgid "Friday night"
+#~ msgstr "ಶುಕ್ರವಾರ ರಾತ್ರಿ"
+
+#~ msgid "Friday morning"
+#~ msgstr "ಶುಕ್ರವಾರ ಬೆಳಿಗ್ಗೆ"
+
+#~ msgid "Friday afternoon"
+#~ msgstr "ಶುಕ್ರವಾರ ಮಧ್ಯಾಹ್ನ"
+
+#~ msgid "Friday evening"
+#~ msgstr "ಶುಕ್ರವಾರ ಸಂಜೆ"
+
+#~ msgid "Saturday night"
+#~ msgstr "ಶನಿವಾರ ರಾತ್ರಿ"
+
+#~ msgid "Saturday morning"
+#~ msgstr "ಶನಿವಾರ ಬೆಳಿಗ್ಗೆ"
+
+#~ msgid "Saturday afternoon"
+#~ msgstr "ಶನಿವಾರ ಮಧ್ಯಾಹ್ನ"
+
+#~ msgid "Saturday evening"
+#~ msgstr "ಶನಿವಾರ ಸಂಜೆ"
+
+#~ msgid "Sunday night"
+#~ msgstr "ಭಾನುವಾರ ರಾತ್ರಿ"
+
+#~ msgid "Sunday morning"
+#~ msgstr "ಭಾನುವಾರ ಬೆಳಿಗ್ಗೆ"
+
+#~ msgid "Sunday afternoon"
+#~ msgstr "ಭಾನುವಾರ ಮಧ್ಯಾಹ್ನ"
+
+#~ msgid "Sunday evening"
+#~ msgstr "ಭಾನುವಾರ ಸಂಜೆ"
+
+#~ msgid "Tonight"
+#~ msgstr "ಇಂದು ರಾತ್ರಿ"
+
+#~ msgid "This morning"
+#~ msgstr "ಇಂದು ಬೆಳಿಗ್ಗೆ"
+
+#~ msgid "This afternoon"
+#~ msgstr "ಇಂದು ಮಧ್ಯಾಹ್ನ"
+
+#~ msgid "This evening"
+#~ msgstr "ಇಂದು ಸಂಜೆ"
+
+#~ msgid "Tomorrow night"
+#~ msgstr "ಇಂದು ರಾತ್ರಿ"
+
+#~ msgid "Tomorrow morning"
+#~ msgstr "ನಾಳೆ ಬೆಳಿಗ್ಗೆ"
+
+#~ msgid "Tomorrow afternoon"
+#~ msgstr "ನಾಳೆ ಮಧ್ಯಾಹ್ನ"
+
+#~ msgid "Tomorrow evening"
+#~ msgstr "ನಾಳೆ ಸಂಜೆ"
+
+#~ msgid "%d selected"
+#~ msgid_plural "%d selected"
+#~ msgstr[0] "%d ಆರಿಸಲಾಗಿದೆ"
+#~ msgstr[1] "%d ಆರಿಸಲಾಗಿವೆ"
