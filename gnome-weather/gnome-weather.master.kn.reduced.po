@@ -7,9 +7,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-weather master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-weather/issues\n"
-"POT-Creation-Date: 2020-04-03 17:53+0000\n"
-"PO-Revision-Date: 2013-12-30 16:11+0630\n"
-"Last-Translator: \n"
+"POT-Creation-Date: 2020-05-01 16:36+0000\n"
+"PO-Revision-Date: 2020-05-17 13:27+0100\n"
+"Last-Translator: Chandan Veerabhadrappa <chandanv89@gmail.com>\n"
 "Language-Team: Kannada <kde-i18n-doc@kde.org>\n"
 "Language: kn\n"
 "MIME-Version: 1.0\n"
@@ -17,114 +17,119 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 "X-DamnedLies-Scope: partial\n"
-"X-Generator: Lokalize 1.5\n"
+"X-Generator: Poedit 2.3\n"
 
 #: data/city.ui:8
 msgid "City view"
-msgstr ""
+msgstr "ನಗರ ನೋಟ"
 
 #: data/city.ui:30
 msgid "Loading…"
 msgstr "ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ…"
 
 #: data/org.gnome.Weather.appdata.xml.in.in:5
-#: data/org.gnome.Weather.desktop.in.in:4 src/app/main.js:61
-#: src/app/window.js:255 src/service/main.js:48
+#: data/org.gnome.Weather.desktop.in.in:4 src/app/main.js:61 src/app/window.js:255
+#: src/service/main.js:48
 msgid "Weather"
 msgstr "ಹವಾಮಾನ"
 
 #: data/org.gnome.Weather.appdata.xml.in.in:6
 #: data/org.gnome.Weather.desktop.in.in:5
 msgid "Show weather conditions and forecast"
-msgstr ""
+msgstr "ಹವಾಮಾನ ಸ್ಥಿತಿಗಳು ಮತ್ತು ಮುನ್ಸೂಚನೆ ತೋರಿಸು"
 
 #: data/org.gnome.Weather.appdata.xml.in.in:16
 msgid ""
-"A small application that allows you to monitor the current weather "
-"conditions for your city, or anywhere in the world."
+"A small application that allows you to monitor the current weather conditions "
+"for your city, or anywhere in the world."
 msgstr ""
+"ಪ್ರಪಂಚದ ಯಾವುದೇ ಸ್ಥಳದ ಹವಾಮಾನ ಸ್ಥಿತಿಗಳ ಮೇಲೆ ನಿಗಾವಹಿಸಲು ಈ ಪುಟ್ಟ ಅಪ್ಲಿಕೇಷನ್ "
+"ಅನುವುಮಾಡಿಕೊಡುತ್ತದೆ."
 
 #: data/org.gnome.Weather.appdata.xml.in.in:20
 msgid ""
-"It provides access to detailed forecasts, up to 7 days, with hourly details "
-"for the current and next day, using various internet services."
+"It provides access to detailed forecasts, up to 7 days, with hourly details for "
+"the current and next day, using various internet services."
 msgstr ""
+"ಉಪಲಬ್ಧವಿರುವ ಅನೇಕ ಅಂತರ್ಜಾಲ ಸೇವೆಗಳನ್ನು ಉಪಯೋಗಿಸಿಕೊಂಡು, ಪ್ರಸ್ತುತ ಮತ್ತು ಮುಂದಿನ ದಿನದ ಪ್ರತೀ "
+"ಗಂಟೆಯ ವಿವರಗಳು ಮತ್ತು ೭ ದಿನಗಳ ವರೆಗಿನ ವಿವರಾತ್ಮಕ ಮುನ್ಸೂಚನೆಗಳನ್ನು ಪಡೆಯಲು "
+"ಅನುವುಮಾಡಿಕೊಡುತ್ತದೆ."
 
 #: data/org.gnome.Weather.appdata.xml.in.in:24
 msgid ""
 "It also optionally integrates with the GNOME Shell, allowing you to see the "
-"current conditions of the most recently searched cities by just typing the "
-"name in the Activities Overview."
+"current conditions of the most recently searched cities by just typing the name "
+"in the Activities Overview."
 msgstr ""
 
 #: data/org.gnome.Weather.appdata.xml.in.in:74
 msgid "The GNOME Project"
-msgstr ""
+msgstr "ಗ್ನೋಮ್ ಯೋಜನೆ"
 
 #. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
 #: data/org.gnome.Weather.desktop.in.in:13
 msgid "Weather;Forecast;"
-msgstr ""
+msgstr "ಹವಾಮಾನ;ಮುನ್ಸೂಚನೆ;"
 
 #: data/org.gnome.Weather.desktop.in.in:14
 msgid "Allows weather information to be displayed for your location."
 msgstr ""
 
+#: data/org.gnome.Weather.gschema.xml:6
+msgid "Configured cities to show weather for"
+msgstr ""
+
+#: data/org.gnome.Weather.gschema.xml:7
+msgid ""
+"The locations shown in the world view of gnome-weather. Each value is a "
+"GVariant returned by gweather_location_serialize()."
+msgstr ""
+
 #: data/org.gnome.Weather.gschema.xml:14
-#, fuzzy
-#| msgid "Add locations"
 msgid "Automatic location"
-msgstr "ಸ್ಥಳಗಳನ್ನು ಸೇರಿಸಿ"
+msgstr "ಸ್ವಯಂಚಾಲಿತ ಸ್ಥಳ"
+
+#: data/org.gnome.Weather.gschema.xml:15
+msgid ""
+"The automatic location is the value of automatic-location switch which decides "
+"whether to fetch current location or not."
+msgstr ""
 
 #: data/places-popover.ui:45
-#, fuzzy
-#| msgid "New Location"
 msgid "Automatic Location"
-msgstr "ಹೊಸ ಸ್ಥಳ"
+msgstr "ಸ್ವಯಂಚಾಲಿತ ಸ್ಥಳ"
 
 #: data/places-popover.ui:84
-#, fuzzy
-#| msgid "Loading…"
 msgid "Locating…"
-msgstr "ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ…"
+msgstr "ಪತ್ತೆಮಾಡಲಾಗುತ್ತಿದೆ…"
 
 #: data/places-popover.ui:141
-#, fuzzy
-#| msgid "Search for a city:"
 msgid "Search for a city"
-msgstr "ಒಂದು ಊರಿಗಾಗಿ ಹುಡುಕು:"
+msgstr "ನಗರಕ್ಕಾಗಿ ಹುಡುಕು"
 
 #: data/places-popover.ui:173
 msgid "Viewed Recently"
-msgstr ""
+msgstr "ಇತ್ತೀಚೆಗೆ ವೀಕ್ಷಿಸಿದ್ದವು"
 
 #: data/primary-menu.ui:4
-#, fuzzy
-#| msgid "Temperature unit"
 msgid "_Temperature Unit"
-msgstr "ಉಷ್ಣತೆಯ ಏಕಮಾನ"
+msgstr "ಉಷ್ಣತೆಯ ಏಕಮಾನ (_T)"
 
 #: data/primary-menu.ui:6
-#, fuzzy
-#| msgid "Celsius"
 msgid "_Celsius"
-msgstr "ಸೆಲ್ಸಿಯಸ್"
+msgstr "ಸೆಲ್ಷಿಯಸ್ (_C)"
 
 #: data/primary-menu.ui:11
-#, fuzzy
-#| msgid "Fahrenheit"
 msgid "_Fahrenheit"
-msgstr "ಫ್ಯಾರೆನ್‍ಹೀಟ್"
+msgstr "ಫ್ಯಾರೆನ್‍ಹೀಟ್ (_F)"
 
 #: data/primary-menu.ui:19
-#, fuzzy
-#| msgid "World Weather"
 msgid "_About Weather"
-msgstr "ಪ್ರಪಂಚದ ಹವಾಮಾನ"
+msgstr "ಹವಾಮಾನದ ಬಗ್ಗೆ (_A)"
 
 #: data/weather-widget.ui:39
 msgid "Current conditions"
-msgstr ""
+msgstr "ಪ್ರಸ್ತುತ ಸ್ಥಿತಿಗಳು"
 
 #: data/weather-widget.ui:185
 msgid "Today"
@@ -136,33 +141,27 @@ msgstr "ನಾಳೆ"
 
 #: data/window.ui:33
 msgid "Places"
-msgstr ""
+msgstr "ಸ್ಥಳಗಳು"
 
 #: data/window.ui:55
 msgid "Refresh"
-msgstr ""
+msgstr "ಪರಿಷ್ಕರಿಸು"
 
 #: data/window.ui:113
-#, fuzzy
-#| msgid "Search for a city:"
 msgid "Search for a location"
-msgstr "ಒಂದು ಊರಿಗಾಗಿ ಹುಡುಕು:"
+msgstr "ಸ್ಥಳಕ್ಕಾಗಿ ಹುಡುಕು"
 
 #: data/window.ui:129
 msgid "To see weather information, enter the name of a city."
 msgstr ""
 
 #: src/app/forecast.js:35
-#, fuzzy
-#| msgid "Forecast for Today"
 msgid "Forecast"
-msgstr "ಇಂದಿಗಾಗಿನ ಹವಾಮಾನ ಮುನ್ಸೂಚನೆ"
+msgstr "ಹವಾಮಾನ ಮುನ್ಸೂಚನೆ"
 
 #: src/app/forecast.js:116
-#, fuzzy
-#| msgid "Forecast for Today"
 msgid "Forecast not available"
-msgstr "ಇಂದಿಗಾಗಿನ ಹವಾಮಾನ ಮುನ್ಸೂಚನೆ"
+msgstr "ಹವಾಮಾನ ಮುನ್ಸೂಚನೆ ಲಭ್ಯವಿಲ್ಲ"
 
 #. Translators: this is a time format without date used for AM/PM
 #: src/app/forecast.js:132
@@ -184,10 +183,8 @@ msgid "%A"
 msgstr ""
 
 #: src/app/window.js:139
-#, fuzzy
-#| msgid "New Location"
 msgid "Select Location"
-msgstr "ಹೊಸ ಸ್ಥಳ"
+msgstr "ಸ್ಥಳವನ್ನು ಆಯ್ಕೆಮಾಡಿ"
 
 #: src/app/window.js:254
 msgid "translator-credits"
@@ -199,10 +196,8 @@ msgid "A weather application"
 msgstr "ಹವಾಮಾನದ ಅನ್ವಯ"
 
 #: src/app/world.js:38
-#, fuzzy
-#| msgid "World Weather"
 msgid "World view"
-msgstr "ಪ್ರಪಂಚದ ಹವಾಮಾನ"
+msgstr "ಜಾಗತಿಕ ನೋಟ"
 
 #. TRANSLATORS: this is the temperature string, minimum and maximum.
 #. The two values are already formatted, so it would be something like
